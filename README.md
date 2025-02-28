@@ -1,4 +1,5 @@
 # Project-CNC-3
+![Image](https://github.com/user-attachments/assets/1ca7d879-9efd-4a05-83ab-e284bf574b44)
 Documentation of 3rd Makerspace CNC (for metal working only)
 
 [Forum - Doku CNC Frieda](https://www.rc-network.de/threads/fr%C3%A4se-frieda.560454/)
