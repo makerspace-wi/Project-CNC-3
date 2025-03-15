@@ -6,6 +6,8 @@
 
 <br><br>
 ### Materialien
+[HC-Maschinentechnik](https://hc-maschinentechnik.de/Rohmaterialien)
 <br><br>
 ### Hilfsrechner
+[Meusburger Schnittdaten-Kalkulator](https://schnittdaten.meusburger.com/)
 <br><br>
