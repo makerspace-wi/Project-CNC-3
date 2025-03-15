@@ -1,7 +1,9 @@
 ## Im folgenden findet ihr Bezugsquellen und andere interessante Links
 ### Fräser
-<li>[SOROTEC CNC-Werkzeuge](https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/)</li>
-<li>[HC-Maschinentechnik](https://hc-maschinentechnik.de/Fraeser-Bohrer)</li>
+[SOROTEC CNC-Werkzeuge](https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/)
+
+[HC-Maschinentechnik](https://hc-maschinentechnik.de/Fraeser-Bohrer)
+
 <br><br>
 ### Materialien
 <br><br>
