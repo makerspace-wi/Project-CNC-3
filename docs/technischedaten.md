@@ -14,5 +14,6 @@ X-Achse 620mm
 Y-Achse 995mm  
 Z-Hub 115mm  
 Gesteuert wird die Fräse mit dem Programm [Estlcam](https://www.estlcam.de/) von Christian Knüll (Homepage enthält auch weitere Hilfen)
+Als Controller kommt der [Klemmenadapter XL](https://www.estlcam.de/tx.php) (auch von Christian Knüll) zum Einsatz
 
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/)
