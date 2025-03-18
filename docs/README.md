@@ -10,7 +10,7 @@ Dieser Betrag wird in der Maschinenkasse hinterlegt und zu gegebener Zeit dazu v
 Nach einer Beschädigung muss der Verursacher dies zeitnah melden und die € 50,-- zahlen. Wird eine Beschädigung ohne Meldung festgestellt, verpflichtet sich der letzte Nutzer den Betrag zu zahlen.
 Daher ist es ratsam, vor jedem Projekt zu prüfen, ob neue, nicht gemeldete Beschädigungen vorliegen.
 
-[Bezugsquellen und Hilfsmittel](/bezugsquellen.md)
+[Bezugsquellen und Hilfsmittel](/docs/bezugsquellen.md)
 <br><br><br><br>
 
 [Forum - Doku CNC Frieda](https://www.rc-network.de/threads/fr%C3%A4se-frieda.560454/)
