@@ -10,6 +10,7 @@ Dieser Betrag wird in der Maschinenkasse hinterlegt und zu gegebener Zeit dazu v
 Nach einer Beschädigung muss der Verursacher dies zeitnah melden und die € 50,-- zahlen. Wird eine Beschädigung ohne Meldung festgestellt, verpflichtet sich der letzte Nutzer den Betrag zu zahlen.
 Daher ist es ratsam, vor jedem Projekt zu prüfen, ob neue, nicht gemeldete Beschädigungen vorliegen.
 
+[Technische Daten](technischedaten.md)  
 [Bezugsquellen und Hilfsmittel](bezugsquellen.md)
 <br><br><br><br>
 
