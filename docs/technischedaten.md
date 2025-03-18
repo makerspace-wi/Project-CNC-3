@@ -8,13 +8,12 @@ Fräs-Spindel:Teknomotor 1,1KW ER20 230V/380V mit E-Lüfter
 X-Achse 700mm  
 Y-Achse 1100mm  
 
-
 ### Fräsfläche:
-T-Nutenfläche = 1100mm x 700mm - bearbeitbare Fläche = 995mm x 620mm
 X-Achse 620mm  
 Y-Achse 995mm  
 Z-Hub 115mm  
-Gesteuert wird die Fräse mit dem Programm [Estlcam](https://www.estlcam.de/) von Christian Knüll (Homepage enthält auch weitere Hilfen)
+  
+Gesteuert wird die Fräse mit [Estlcam](https://www.estlcam.de/) von Christian Knüll (Homepage enthält auch weitere Hilfen)
 Als Controller kommt der [Klemmenadapter XL](https://www.estlcam.de/tx.php) (auch von Christian Knüll) zum Einsatz
 
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/)
