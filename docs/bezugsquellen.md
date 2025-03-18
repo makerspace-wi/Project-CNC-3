@@ -10,4 +10,4 @@
 [SOROTEC App](https://app.sorotec.de/)<br>
 [Meusburger Schnittdaten-Kalkulator](https://schnittdaten.meusburger.com/)
 <br><br><br><br>
-[Zurück zur Dokustartseite](/README.md)
+[Zurück zur Dokustartseite]([/README.md](https://makerspace-wi.github.io/Project-CNC-3/))
