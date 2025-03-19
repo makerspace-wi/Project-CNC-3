@@ -1,7 +1,7 @@
 ## Technische Daten:
-X-Achse mit 1x Nema 23 190Nm & 2x mech. Endstopp (min & max)  
-Y-Achse mit 1x Nema 23 190Nm & Riemen T2,5 & 2x mech. Endstopp (min & max)  
-Z-Achse mit 1x Nema 23 90Nm & ??er TS & 2x mech. Endstopp (min & max)  
+X-Achse mit 1x NEMA23 - LC57H3100 3,0Nm  4,0A & 2x mech. Endstopp (min & max)  
+Y-Achse mit 1x NEMA23 - LC57H3100 3,0Nm  4,0A & 2x mech. Endstopp (min & max)  
+Z-Achse mit 1x NEMA23 - LC57H380  2,0Nm  3,5A & 1x mech. Endstopp (min & max)  
     
 Fräs-Spindel:Teknomotor 1,1KW ER20 230V/380V mit E-Lüfter
 ### Arbeitsfläche
