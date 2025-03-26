@@ -12,8 +12,36 @@ Daher ist es ratsam, vor jedem Projekt zu prüfen, ob neue, nicht gemeldete Besc
 
 [Technische Daten](technischedaten.md)<br>  
 [Bezugsquellen und Hilfsmittel](bezugsquellen.md)
-<br><br><br><br>
+<br><br>
 
+- Hilfreiche Kurzerklärungen von Christian Knüll, dem Erfinder von Estlcam 
+  - [ESTLCam Craskurs](https://www.youtube.com/watch?v=od0ZFGGbvX8)
+  - [Die Hilfefunktionen](https://www.youtube.com/watch?v=3ujPAEB8xeg)
+  - [Tastenbelegung NUMPAD + Maus](https://www.youtube.com/watch?v=sXvNqufWKvA)<br><br>
+  - [weitere auf der YOUTUBE Seite von Christian Knüll](https://www.youtube.com/@ChristianKnuell)
+
+# Fräsprojekt Ablauf
+* [Zubehör Box aus ToolsLocker holen]()
+* [Fräse einschalten und mit RFID-Chip anmelden]()<br><br>
+* [CNC Controller V12 starten]()
+* [Fräser montieren]()  
+* [Werkstück auf Arbeitsfläche einspannen]()
+* [Spindelgeschwindigkeit einstellen]()
+* [Projekt-File mit Estlcam CNC-Steuerung öffnen]()
+* [Nullpunkt anfahren und Achsen 'nullen']()
+* [Z-Achse nullen]()
+* [Absauge einschalten]()
+* [Fräsvorgang starten]() <br><br>
+* [Fräse runter fahren (ausschalten)]()
+
+## Weiterführende Dokumentationen
+[Fräserauswahl](https://github.com/makerspace-wi/Projekt-CNC2-Holzfraese/tree/main/images/fraeser_verwendung_schaftfraeser.png)<br>
+
+[Schnittwerteberechnungen](../blob/main/doc/schnittwerte.pdf)
+
+[Spann Pratzen Set Teileliste](../blob/main/doc/Pratzen_Set.pdf)
+
+----
 [Forum - Doku CNC Frieda](https://www.rc-network.de/threads/fr%C3%A4se-frieda.560454/)
 
 [Start Aufbau Frieda](https://www.rc-network.de/threads/fr%C3%A4se-frieda.560454/page-7#post-6101748)
