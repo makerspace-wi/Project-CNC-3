@@ -11,6 +11,25 @@ Nach einer Beschädigung muss der Verursacher dies zeitnah melden und die € 50
 Daher ist es ratsam, vor jedem Projekt zu prüfen, ob neue, nicht gemeldete Beschädigungen vorliegen.
 
 [Technische Daten](technischedaten.md)<br>  
+### Einweisungen
+Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Bedienung ist sehr komplex und sollte unbedingt anhand eines konkreten Projektes erlernt werden.
+
+#### Voraussetzung für eine Einweisung:
+
+- Ein konkretes Einstiegsprojekt (nur Metallbarbeitung!)
+- Gemeinsam mit einem Einweiser prüfen, ob das Projekt an der CNC sinnvoll umsetzbar ist
+- Eigeninitiative bei der Erarbeitung erster Grundkenntnisse in der CAM Programmierung
+    - CAM Grundlagen mit Hilfe von Onlinequellen erarbeiten
+    - Am besten das eigenen Projekt für den Einstieg verwenden
+
+#### Ablauf der Einweisung
+- Kontrolle und ggf. Überarbeitung der CAM Programmierung gemeinsam mit einem Einweiser
+- Erklärung der technischen Details und genaue Funktionsweise der Fräse
+- Einrichten und fräsen des eigenen Projektes mit Unterstützung des Einweisers
+- *Freischaltung nach 2. eigenständigem Projekt !*
+
+### Details zur Bedienung, Einrichtung & Wartung können in der folgenden Dokumentation nachgelesen werden.<br> !!! Bei Unsicherheiten in der Bedienung BITTE IMMER einen Einweiser kontaktieren !!!  
+
 [Bezugsquellen und Hilfsmittel](bezugsquellen.md)
 <br><br>
 
