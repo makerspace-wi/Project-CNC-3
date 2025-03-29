@@ -1,6 +1,6 @@
 # Vorwort und generelles zur CNC-3 Fräse des Makerspace Wiesbaden e.V.<br><br>
-Die CNC-3 hat eine T-Nutenfläche von 1100mm x 700mm - davon sind 995mm x 620mm bearbeitbar.<br><br>
-Weitere technische Daten [hier](technischedaten.md)<br> 
+Die CNC-3 hat eine T-Nutenfläche von 1100mm x 700mm - davon sind 995mm x 620mm bearbeitbar.<br>
+Weitere [Technische Daten](technischedaten.md)<br>  <br> 
 Die Fräse ist zunächst nur für die Bearbeitung von Weichmetallen (Aluminium und Messing) vorgesehen.<br><br>
 ***Achtung wichtig***<br>
 Bei der Nutzung der CNC-3 entstehen zusätzliche Kosten, bedingt durch den Verbrauch von Kühl-/Schmiermittel (ca. € 10,--/Liter) der MMS (Minimalmengenschmierung).<br>
@@ -12,7 +12,7 @@ Daher ist es ratsam, vor jedem Projekt zu prüfen, ob neue, nicht gemeldete Besc
 
 Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen geeigneten Satz Alu-Fräser anschaffen (- )[Bezugsquellen](bezugsquellen.md))
 
-[Technische Daten](technischedaten.md)<br>  
+
 ### Einweisungen
 Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Bedienung ist sehr komplex und sollte unbedingt anhand eines konkreten Projektes erlernt werden.
 
