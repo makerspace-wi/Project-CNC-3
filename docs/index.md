@@ -10,7 +10,7 @@ Dieser Betrag wird in der Maschinenkasse hinterlegt und zu gegebener Zeit dazu v
 Nach einer Beschädigung muss der Verursacher dies zeitnah melden und die € 50,-- zahlen. Wird eine Beschädigung ohne Meldung festgestellt, verpflichtet sich der letzte Nutzer den Betrag zu zahlen.
 Daher ist es ratsam, vor jedem Projekt zu prüfen, ob neue, nicht gemeldete Beschädigungen vorliegen.  
 
-Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen geeigneten Satz Alu-Fräser anschaffen - [Bezugsquellen](bezugsquellen.md)
+Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen geeigneten Satz Alu-Fräser anschaffen (- )[Bezugsquellen](bezugsquellen.md))
 
 [Technische Daten](technischedaten.md)<br>  
 ### Einweisungen
