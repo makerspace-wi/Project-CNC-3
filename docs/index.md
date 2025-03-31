@@ -10,7 +10,7 @@ Dieser Betrag wird in der Maschinenkasse hinterlegt und zu gegebener Zeit dazu v
 Nach einer Beschädigung muss der Verursacher dies zeitnah melden und die € 50,-- zahlen. Wird eine Beschädigung ohne Meldung festgestellt, verpflichtet sich der letzte Nutzer den Betrag zu zahlen.
 Daher ist es ratsam, vor jedem Projekt zu prüfen, ob neue, nicht gemeldete Beschädigungen vorliegen.  
 
-Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen geeigneten Satz Alu-Fräser anschaffen (- )[Bezugsquellen](bezugsquellen.md))
+Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen geeigneten Satz Alu-Fräser anschaffen - [hc-maschinentechnik](https://hc-maschinentechnik.de/Fraeser-fuer-Aluminium) oder [SOROTEC](https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/sorotec-fraesersets/))
 
 
 ### Einweisungen
@@ -22,7 +22,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 - Gemeinsam mit einem Einweiser prüfen, ob das Projekt an der CNC sinnvoll umsetzbar ist
 - Eigeninitiative bei der Erarbeitung erster Grundkenntnisse in der CAM Programmierung
     - CAM Grundlagen mit Hilfe von Onlinequellen erarbeiten
-    - Am besten das eigenen Projekt für den Einstieg verwenden
+    - Am besten das eigene Projekt für den Einstieg verwenden
 
 #### Ablauf der Einweisung
 - Kontrolle und ggf. Überarbeitung der CAM Programmierung gemeinsam mit einem Einweiser
