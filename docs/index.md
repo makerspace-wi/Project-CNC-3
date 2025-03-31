@@ -2,7 +2,7 @@
 Die CNC-3 hat eine T-Nutenfläche von 1100mm x 700mm - davon sind 995mm x 620mm bearbeitbar.<br>
 Weitere [Technische Daten](technischedaten.md)<br>  <br> 
 Die Fräse ist zunächst nur für die Bearbeitung von Weichmetallen (Aluminium und Messing) vorgesehen.<br><br>
-***Achtung wichtig***<br>
+***Achtung wichtig!***<br>
 Bei der Nutzung der CNC-3 entstehen zusätzliche Kosten, bedingt durch den Verbrauch von Kühl-/Schmiermittel (ca. € 10,--/Liter) der MMS (Minimalmengenschmierung).<br>
 Der Verrechnungsmodus ist noch nicht definiert - wird aber zu einem späteren Zeitpunkt hier erklärt.
 <br>Desweiteren werden immer dann € 50,-- fällig, wenn durch eine Fehleinstellung in die (teure) T-Nutenplatte gefräst oder gebohrt wird. 
@@ -10,7 +10,7 @@ Dieser Betrag wird in der Maschinenkasse hinterlegt und zu gegebener Zeit dazu v
 Nach einer Beschädigung muss der Verursacher dies zeitnah melden und die € 50,-- zahlen. Wird eine Beschädigung ohne Meldung festgestellt, wird  der letzte Nutzer verpflichtet, den Betrag zu zahlen.
 Daher ist es ratsam, unbedingt vor jedem Projekt zu prüfen, ob neue, nicht gemeldete Beschädigungen vorliegen.  
 
-Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen geeigneten Satz Alu-Fräser anschaffen - [hc-maschinentechnik](https://hc-maschinentechnik.de/Fraeser-fuer-Aluminium) oder [SOROTEC](https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/sorotec-fraesersets/)
+Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen eigenen Satz Alu-Fräser anschaffen - [hc-maschinentechnik](https://hc-maschinentechnik.de/Fraeser-fuer-Aluminium) oder [SOROTEC](https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/sorotec-fraesersets/)
 
 
 ### Einweisungen
@@ -28,7 +28,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 - Kontrolle und ggf. Überarbeitung der CAM Programmierung gemeinsam mit einem Einweiser
 - Erklärung der technischen Details und genaue Funktionsweise der Fräse
 - Einrichten und fräsen des eigenen Projektes mit Unterstützung des Einweisers
-- *Freischaltung nach 2. eigenständigem Projekt, bzw. nach Einschätzung des Einweisers !*
+- *Freischaltung frühestens nach dem 2. eigenständigem Projekt, bzw. nach Einschätzung des Einweisers !*
 
 ### Details zur Bedienung, Einrichtung & Wartung können in der folgenden Dokumentation nachgelesen werden.<br> !!! Bei Unsicherheiten in der Bedienung BITTE IMMER einen Einweiser kontaktieren !!!  
 
