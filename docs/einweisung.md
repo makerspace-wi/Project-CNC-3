@@ -1,5 +1,6 @@
 ## Ablauf Einweisung
 #### 1) Einweisung erfolgt NUR mit konkretem Projekt (Allgemeine Einweisungen sind erfahrungsgemäß nicht sinnvoll)
+* *Freischaltung frühestens nach dem 2. eigenständigem Projekt, bzw. nach Einschätzung des Einweisers !*
 
 #### 2) Abfrage Projektdetails & Entscheidung, ob das Projekt sinnvoll an der CNC umsetzbar ist
 
@@ -7,7 +8,7 @@
 - max. Abmessungen
 - Geometriebesonderheiten (Rundungen, Hinterschnitte, ...)
 - Zeitfaktor
-- Material (möglichst keine Werkstoffe, die bei der Bearbeitung gekühlt werden müssen)
+- Material, hier nur Weichmetalle wie Aluminium, Messing ...
 - ...
 
 #### 3) Abfrage der Erfahrung bzgl. CAM Programmierung und CNC gesteuerten Maschinen
