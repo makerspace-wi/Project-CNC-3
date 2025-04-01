@@ -10,7 +10,7 @@ Dieser Betrag wird in der Maschinenkasse hinterlegt und zu gegebener Zeit dazu v
 Nach einer Beschädigung muss der Verursacher dies zeitnah melden und die € 50,-- zahlen. Wird eine Beschädigung ohne Meldung festgestellt, wird  der letzte Nutzer verpflichtet, den Betrag zu zahlen.
 Daher ist es ratsam, unbedingt vor jedem Projekt zu prüfen, ob neue, nicht gemeldete Beschädigungen vorliegen.  
 
-Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen eigenen Satz Alu-Fräser anschaffen - [hc-maschinentechnik](https://hc-maschinentechnik.de/Fraeser-fuer-Aluminium) oder [SOROTEC](https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/sorotec-fraesersets/)
+Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen <ins>eigenen</ins> Satz Alu-Fräser anschaffen - [hc-maschinentechnik](https://hc-maschinentechnik.de/Fraeser-fuer-Aluminium) oder [SOROTEC](https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/sorotec-fraesersets/)
 
 [Ablauf Einweisung](einweisung.md)
 ### Einweisungen
