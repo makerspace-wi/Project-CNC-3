@@ -14,8 +14,8 @@ Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen <ins>eigenen</ins
 
 [Ablauf Einweisung](einweisung.md)
 ### Einweisungen
-Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Bedienung ist sehr komplex und sollte unbedingt anhand eines konkreten Projektes erlernt werden.
-
+Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Bedienung ist sehr komplex und sollte unbedingt anhand eines konkreten Projektes erlernt werden.  
+[Ablauf Einweisung](einweisung.md)
 #### Voraussetzung für eine Einweisung:
 
 - Ein konkretes Einstiegsprojekt (nur Metallbarbeitung!)
