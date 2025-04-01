@@ -16,26 +16,13 @@ Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen <ins>eigenen</ins
 Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Bedienung ist sehr komplex und sollte unbedingt anhand eines konkreten Projektes erlernt werden.  
 [Ablauf Einweisung](einweisung.md)
 
-#### Voraussetzung für eine Einweisung:
-
-- Ein konkretes Einstiegsprojekt (nur Metallbarbeitung!)
-- Gemeinsam mit einem Einweiser prüfen, ob das Projekt an der CNC sinnvoll umsetzbar ist
-- Eigeninitiative bei der Erarbeitung erster Grundkenntnisse in der CAM Programmierung
-    - CAM Grundlagen mit Hilfe von Onlinequellen erarbeiten
-    - Am besten das eigene Projekt für den Einstieg verwenden
-
-#### Ablauf der Einweisung
-- Kontrolle und ggf. Überarbeitung der CAM Programmierung gemeinsam mit einem Einweiser
-- Erklärung der technischen Details und genaue Funktionsweise der Fräse
-- Einrichten und fräsen des eigenen Projektes mit Unterstützung des Einweisers
-- *Freischaltung frühestens nach dem 2. eigenständigem Projekt, bzw. nach Einschätzung des Einweisers !*
-
 ### Details zur Bedienung, Einrichtung & Wartung können in der folgenden Dokumentation nachgelesen werden.<br> !!! Bei Unsicherheiten in der Bedienung BITTE IMMER einen Einweiser kontaktieren !!!  
 
 [Bezugsquellen und Hilfsmittel](bezugsquellen.md)
 <br><br>
 
 - Hilfreiche Kurzerklärungen von Christian Knüll, dem Erfinder von Estlcam 
+  - [ESTLCam Hilfeseite](https://estlcam.de/index.php#Help)
   - [ESTLCam Craskurs](https://www.youtube.com/watch?v=od0ZFGGbvX8)
   - [Die Hilfefunktionen](https://www.youtube.com/watch?v=3ujPAEB8xeg)
   - [Tastenbelegung NUMPAD + Maus](https://www.youtube.com/watch?v=sXvNqufWKvA)<br><br>
