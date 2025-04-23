@@ -7,7 +7,7 @@
 [HC-Maschinentechnik](https://hc-maschinentechnik.de/Rohmaterialien)
 <br><br>
 ### Hilfsrechner
-[Gammaflow Schnittdatenrechner](https://gammaflow.de/pages/schnittdatenrechner)
+[Gammaflow Online Schnittdatenrechner](https://gammaflow.de/pages/schnittdatenrechner)
 [SOROTEC App](https://app.sorotec.de/)<br>
 [Meusburger Schnittdaten-Kalkulator](https://schnittdaten.meusburger.com/)
 <br><br><br><br>
