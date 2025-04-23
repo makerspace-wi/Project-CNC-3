@@ -5,6 +5,7 @@
 <br><br>
 ### Materialien
 [HC-Maschinentechnik](https://hc-maschinentechnik.de/Rohmaterialien)
+[CNC-Schnittdaten verstehen](https://gammaflow.de/blogs/cnc-blog/cnc-schnittdaten-verstehen-teil-1-einleitung)
 <br><br>
 ### Hilfsrechner
 [Gammaflow Online Schnittdatenrechner](https://gammaflow.de/pages/schnittdatenrechner)
