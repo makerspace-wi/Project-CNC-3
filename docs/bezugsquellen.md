@@ -8,7 +8,7 @@
 [CNC-Schnittdaten verstehen](https://gammaflow.de/blogs/cnc-blog/cnc-schnittdaten-verstehen-teil-1-einleitung)
 <br><br>
 ### Hilfsrechner
-[Gammaflow Online Schnittdatenrechner](https://gammaflow.de/pages/schnittdatenrechner)
+[Gammaflow Online Schnittdatenrechner](https://gammaflow.de/pages/schnittdatenrechner)<br>
 [SOROTEC App](https://app.sorotec.de/)<br>
 [Meusburger Schnittdaten-Kalkulator](https://schnittdaten.meusburger.com/)
 <br><br><br><br>
