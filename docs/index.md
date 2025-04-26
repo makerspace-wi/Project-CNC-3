@@ -33,8 +33,8 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 * [Zubehör (Schlüssel für Spannzange und Passende Spannzange) aus ToolsLocker #2 holen]()
 * T-Nutenplatte auf ungemeldete Beschädigungen prüfen und ggf. sofort melden
 * Werkstück (Aluminium) und Opfermaterial auf Grobmaß sägen und bereit halten
-* Füllstand des Schmiermittels prüfen - Einweiser oder Admin informieren wenn niedrig
-### ccdd
+* [Füllstand des Schmiermittels prüfen - Einweiser oder Admin informieren wenn niedrig]()
+### Work in process
 ## Hilfestellungen zum Fräsjob
 ## Nachbereitung
 
