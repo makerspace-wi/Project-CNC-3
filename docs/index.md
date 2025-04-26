@@ -29,6 +29,11 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
   - [weitere auf der YOUTUBE Seite von Christian Knüll](https://www.youtube.com/@ChristianKnuell)
 
 # Fräsprojekt Ablauf
+## Vorbereitung
+### aabb
+### ccdd
+## Hilfestellungen zum Fräsjob
+## Nachbereitung
 * [Zubehör Box aus ToolsLocker holen]()
 * [Fräse einschalten und mit RFID-Chip anmelden]()<br><br>
 * [CNC Controller V12 starten]()
