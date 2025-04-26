@@ -30,16 +30,18 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 
 # Fräsprojekt Ablauf
 ## Vorbereitung
-### aabb
+* [Zubehör aus ToolsLocker #2 holen]()
+* T-Nutenplatte auf ungemeldete Beschädigungen prüfen
+* Werkstück (Aluminium) und Opfermaterial auf Maß sägen und bereit halten
+* Füllstand des Schmiermittels prüfen - Einweiser oder Admin informieren wenn niedrig
 ### ccdd
 ## Hilfestellungen zum Fräsjob
 ## Nachbereitung
-* [Zubehör Box aus ToolsLocker holen]()
+
 * [Fräse einschalten und mit RFID-Chip anmelden]()<br><br>
 * [CNC Controller V12 starten]()
 * [Fräser montieren]()  
 * [Werkstück auf Arbeitsfläche einspannen]()
-* [Spindelgeschwindigkeit einstellen]()
 * [Projekt-File mit Estlcam CNC-Steuerung öffnen]()
 * [Nullpunkt anfahren und Achsen 'nullen']()
 * [Z-Achse nullen]()
