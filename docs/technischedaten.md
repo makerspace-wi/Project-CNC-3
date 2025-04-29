@@ -5,6 +5,8 @@ Z-Achse mit 1x NEMA23 - LC57H380  2,0Nm  3,5A & 1x mech. Endstopp (min & max)
     
 Fräs-Spindel:Teknomotor 1,1KW ER20 230V/380V mit E-Lüfter
 ### Arbeitsfläche
+T-Nutenplatte PT-50 von der Firma isel<br>
+8mm Nuten für M6 Nutensteine  
 X-Achse 700mm  
 Y-Achse 1100mm  
 
