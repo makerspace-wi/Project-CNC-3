@@ -36,7 +36,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 * Werkstück (Aluminium) und Opfermaterial (Multiplex Holz) auf Grobmaß sägen und bereit halten
 * [Füllstand des Schmiermittels prüfen - Einweiser oder Admin informieren wenn niedrig]()
 * Unbedingt Schutzbrille bereit legen und später beim fräsen tragen
-* [CNC-3 einschalten und mit RFID-Chip anmelden]()
+* [CNC-3 einschalten und mit RFID-Chip anmelden](docs/vb001.md)
 ### Work in process
 ## Hilfestellungen zum Fräsjob
 ## Nachbereitung
