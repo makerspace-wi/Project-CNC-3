@@ -12,7 +12,7 @@ Daher ist es ratsam, unbedingt vor jedem Projekt zu prüfen, ob neue, nicht geme
 
 * Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen <ins>eigenen</ins> Satz Alu-Fräser anschaffen - [hc-maschinentechnik](https://hc-maschinentechnik.de/Fraeser-fuer-Aluminium) oder [SOROTEC](https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/sorotec-fraesersets/)
 * Auf keinen Fall Änderungen an den Maschineneinstellungen vornehmen - die ist einzig und alleine Administratoren vorbehalten.
-* Unbedingt immer mit Schutzbrille arbeiten!
+* Unbedingt immer mit Schutzbrille und Gehörschutz arbeiten!
 ### Einweisungen
 Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Bedienung ist sehr komplex und sollte unbedingt anhand eines konkreten Projektes erlernt werden.  
 [Ablauf Einweisung](einweisung.md)
