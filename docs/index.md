@@ -31,10 +31,10 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 
 # Fräsprojekt Ablauf
 ## Vorbereitung
-* [Zubehör (Schlüssel für Spannzange und Passende Spannzange) aus ToolsLocker-2 - Fach: CNC-3 entnehmen]()
+* Zubehör (Schlüssel für Spannzange und Passende Spannzange) aus ToolsLocker-2 - Fach: CNC-3 entnehmen
 * T-Nutenplatte auf ungemeldete Beschädigungen prüfen und ggf. sofort melden
 * Werkstück (Aluminium) und Opfermaterial (Multiplex Holz) auf Grobmaß sägen und bereit halten
-* [Füllstand des Schmiermittels prüfen - Einweiser oder Admin informieren wenn niedrig]()
+* Füllstand des Schmiermittels prüfen - Einweiser oder Admin informieren wenn niedrig
 * Unbedingt Schutzbrille bereit legen und später beim fräsen tragen
 * [CNC-3 einschalten und mit RFID-Chip anmelden](vb001.md)
 ### Work in process
