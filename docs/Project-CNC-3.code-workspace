@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Stepper Driver Test",
+			"path": "../../../PlatformIO/Projects/Stepper Driver Test"
+		}
+	],
+	"settings": {}
+}
