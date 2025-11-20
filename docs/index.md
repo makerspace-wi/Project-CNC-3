@@ -1,9 +1,9 @@
 # Vorwort und generelles zur CNC-3 Fräse des Makerspace Wiesbaden e.V.<br><br>
-Die CNC-3 hat eine T-Nutenfläche von 1100mm x 700mm - davon sind 995mm x 620mm bearbeitbar.<br>
+Die CNC-3 hat eine T-Nutenfläche von 1100mm x 700mm - davon sind 995mm x 620mm bearbeitbar.  
 Weitere [Technische Daten](technischedaten.md)<br>  <br> 
 Die Fräse ist zunächst nur für die Bearbeitung von Weichmetallen (Aluminium und Messing) vorgesehen.<br><br>
-***Achtung wichtig!***<br>
-* Bei der Nutzung der CNC-3 entstehen zusätzliche Kosten, bedingt durch den Verbrauch von Kühl-/Schmiermittel (ca. € 10,--/Liter) der MMS (Minimalmengenschmierung).<br>
+***Achtung wichtig!***  
+* Bei der Nutzung der CNC-3 entstehen zusätzliche Kosten, bedingt durch den Verbrauch von Kühl-/Schmiermittel (ca. € 10,--/Liter) der MMS (Minimalmengenschmierung).  
 * Der Verrechnungsmodus ist noch nicht definiert - wird aber zu einem späteren Zeitpunkt hier erklärt.
 * Desweiteren werden immer dann € 50,-- fällig, wenn durch eine Fehleinstellung in die (teure) T-Nutenplatte gefräst oder gebohrt wird. 
 Dieser Betrag wird in der Maschinenkasse hinterlegt und zu gegebener Zeit dazu verwendet, Ersatz zu beschaffen.<br>
@@ -17,7 +17,8 @@ Daher ist es ratsam, unbedingt vor jedem Projekt zu prüfen, ob neue, nicht geme
 Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Bedienung ist sehr komplex und sollte unbedingt anhand eines konkreten Projektes erlernt werden.  
 [Ablauf Einweisung](einweisung.md)
 
-### Details zur Bedienung, Einrichtung & Wartung können in der folgenden Dokumentation nachgelesen werden.<br> !!! Bei Unsicherheiten in der Bedienung BITTE IMMER einen Einweiser kontaktieren !!!  
+### Details zur Bedienung, Einrichtung & Wartung können in der folgenden Dokumentation nachgelesen werden.  
+!!! Bei Unsicherheiten in der Bedienung BITTE IMMER einen Einweiser kontaktieren !!!  
 
 [Bezugsquellen und Hilfsmittel](bezugsquellen.md)
 <br><br>
@@ -40,9 +41,9 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 * [CNC-3 einschalten und mit RFID-Chip anmelden](vb001.md)
 ### Work in process
 ## Hilfestellungen zum Fräsjob
-## Nachbereitung
+## Nachbereitung  
 
-<br><br>
+
 * [CNC Controller V12 starten]()
 * [Fräser montieren]()  
 * [Werkstück auf Arbeitsfläche einspannen]()
