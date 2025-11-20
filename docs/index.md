@@ -24,11 +24,11 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 
 - Hilfreiche Kurzerklärungen von Christian Knüll, dem Erfinder von Estlcam 
   - <a href="https://estlcam.de/index.php#Help" target="_blank">ESTLCam Hilfeseite</a>
-  - [ESTLCam Hilfeseite](https://estlcam.de/index.php#Help)
-  - [ESTLCam Craskurs](https://www.youtube.com/watch?v=od0ZFGGbvX8)
-  - [Die Hilfefunktionen](https://www.youtube.com/watch?v=3ujPAEB8xeg)
-  - [Tastenbelegung NUMPAD + Maus](https://www.youtube.com/watch?v=sXvNqufWKvA)<br><br>
-  - [weitere auf der YOUTUBE Seite von Christian Knüll](https://www.youtube.com/@ChristianKnuell)
+  - <a href="https://www.youtube.com/watch?v=od0ZFGGbvX8" target="_blank">ESTLCam Craskurs</a>
+  - <a href="https://www.youtube.com/watch?v=3ujPAEB8xeg" target="_blank">Die Hilfefunktionen</a>
+  - <a href="https://www.youtube.com/watch?v=sXvNqufWKvA" target="_blank">Tastenbelegung NUMPAD + Maus</a>
+  - <a href="https://www.youtube.com/@ChristianKnuell" target="_blank">weitere auf der YOUTUBE Seite von Christian Knüll</a>
+  - <a href="" target="_blank"></a>
 
 # Fräsprojekt Ablauf
 ## Vorbereitung
