@@ -11,7 +11,7 @@ Nach einer Beschädigung muss der Verursacher dies zeitnah melden und die € 50
 Daher ist es ratsam, unbedingt vor jedem Projekt zu prüfen, ob neue, nicht gemeldete Beschädigungen vorliegen.  
 
 * Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen <ins>eigenen</ins> Satz Alu-Fräser anschaffen - <a href="https://hc-maschinentechnik.de/Fraeser-fuer-Aluminium" target="_blank">hc-maschinentechnik</a> oder <a href="https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/sorotec-fraesersets/" target="_blank">SOROTEC</a>
-* Auf keinen Fall Änderungen an den Maschineneinstellungen vornehmen - das ist einzig und alleine Administratoren vorbehalten.
+* Auf keinen Fall Änderungen an den Maschineneinstellungen vornehmen - **das ist einzig und alleine Administratoren vorbehalten.**
 * Unbedingt immer mit Schutzbrille und Gehörschutz arbeiten!
 ### Einweisungen
 Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Bedienung ist sehr komplex und sollte unbedingt anhand eines konkreten Projektes erlernt werden.  
