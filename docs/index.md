@@ -39,10 +39,12 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 * Füllstand des Schmiermittels prüfen - Einweiser oder Admin informieren wenn niedrig
 * Unbedingt Schutzbrille bereit legen und später beim fräsen tragen
 * [CNC-3 einschalten und mit RFID-Chip anmelden](vb001.md)
-### Work in process
-## Hilfestellungen zum Fräsjob
-## Nachbereitung  
 
+### Work in process
+
+## Hilfestellungen zum Fräsjob
+
+## Nachbereitung  
 
 * [CNC Controller V12 starten]()
 * [Fräser montieren]()  
@@ -55,6 +57,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 * [Fräse runter fahren (ausschalten)]()
 
 ## Weiterführende Dokumentationen
+
 [Fräserauswahl](https://github.com/makerspace-wi/Projekt-CNC2-Holzfraese/tree/main/images/fraeser_verwendung_schaftfraeser.png)<br>
 
 [Schnittwerteberechnungen](../blob/main/doc/schnittwerte.pdf)
