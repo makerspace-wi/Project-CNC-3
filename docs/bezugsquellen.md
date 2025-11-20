@@ -1,4 +1,4 @@
-## Im folgenden findet ihr Bezugsquellen und andere interessante Links
+## Bezugsquellen und andere interessante Links
 ### Fräser
 - <a href="https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/" target="_blank">SOROTEC CNC-Werkzeuge</a>
 - <a href="https://hc-maschinentechnik.de/Fraeser-Bohrer" target="_blank">HC-Maschinentechnik</a>
