@@ -1,15 +1,15 @@
 ## Im folgenden findet ihr Bezugsquellen und andere interessante Links
 ### Fräser
-[SOROTEC CNC-Werkzeuge](https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/)<br>
-[HC-Maschinentechnik](https://hc-maschinentechnik.de/Fraeser-Bohrer)
+- <a href="https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/" target="_blank">SOROTEC CNC-Werkzeuge</a>
+- <a href="https://hc-maschinentechnik.de/Fraeser-Bohrer" target="_blank">HC-Maschinentechnik</a>
 <br><br>
 ### Materialien
-[HC-Maschinentechnik](https://hc-maschinentechnik.de/Rohmaterialien)
-[CNC-Schnittdaten verstehen](https://gammaflow.de/blogs/cnc-blog/cnc-schnittdaten-verstehen-teil-1-einleitung)
+- <a href="https://hc-maschinentechnik.de/Rohmaterialien" target="_blank">HC-Maschinentechnik</a>
+- <a href="https://gammaflow.de/blogs/cnc-blog/cnc-schnittdaten-verstehen-teil-1-einleitung" target="_blank">CNC-Schnittdaten verstehen</a>
 <br><br>
 ### Hilfsrechner
-[Gammaflow Online Schnittdatenrechner](https://gammaflow.de/pages/schnittdatenrechner)<br>
-[SOROTEC App](https://app.sorotec.de/)<br>
-[Meusburger Schnittdaten-Kalkulator](https://schnittdaten.meusburger.com/)
+- <a href="https://gammaflow.de/pages/schnittdatenrechner" target="_blank">Gammaflow Online Schnittdatenrechner</a>
+- <a href="https://app.sorotec.de/" target="_blank">SOROTEC App</a>
+- <a href="https://schnittdaten.meusburger.com/" target="_blank">Meusburger Schnittdaten-Kalkulator</a>
 <br><br><br><br>
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/)
