@@ -1,4 +1,5 @@
-# Vorwort und generelles zur CNC-3 Fräse des Makerspace Wiesbaden e.V.<br><br>
+# Vorwort und generelles zur CNC-3 Fräse des Makerspace Wiesbaden e.V.
+
 Die CNC-3 hat eine T-Nutenfläche von 1100mm x 700mm - davon sind 995mm x 620mm bearbeitbar.  
 Weitere [Technische Daten](technischedaten.md)<br>  <br> 
 Die Fräse ist zunächst nur für die Bearbeitung von Weichmetallen (Aluminium und Messing) vorgesehen.<br><br>
@@ -13,11 +14,14 @@ Daher ist es ratsam, unbedingt vor jedem Projekt zu prüfen, ob neue, nicht geme
 * Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen <ins>eigenen</ins> Satz Alu-Fräser anschaffen - <a href="https://hc-maschinentechnik.de/Fraeser-fuer-Aluminium" target="_blank">hc-maschinentechnik</a> oder <a href="https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/sorotec-fraesersets/" target="_blank">SOROTEC</a>
 * Auf keinen Fall Änderungen an den Maschineneinstellungen vornehmen - **das ist einzig und allein Administratoren vorbehalten.**
 * Unbedingt immer mit Schutzbrille und Gehörschutz arbeiten!
+
 ### Einweisungen
+
 Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Bedienung ist sehr komplex und sollte unbedingt anhand eines konkreten Projektes erlernt werden.  
 [Ablauf Einweisung](einweisung.md)
 
 ### Details zur Bedienung, Einrichtung & Wartung können in der folgenden Dokumentation nachgelesen werden.  
+
 !!! Bei Unsicherheiten in der Bedienung BITTE IMMER einen Einweiser kontaktieren !!!  
 
 [Bezugsquellen und Hilfsmittel](bezugsquellen.md)
@@ -29,10 +33,11 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
   - <a href="https://www.youtube.com/watch?v=3ujPAEB8xeg" target="_blank">Die Hilfefunktionen</a>
   - <a href="https://www.youtube.com/watch?v=sXvNqufWKvA" target="_blank">Tastenbelegung NUMPAD + Maus</a>
   - <a href="https://www.youtube.com/@ChristianKnuell" target="_blank">weitere auf der YOUTUBE Seite von Christian Knüll</a>
-  - <a href="" target="_blank"></a>
 
-# Fräsprojekt Ablauf
-## Vorbereitung
+## Fräsprojekt Ablauf
+
+### Vorbereitung
+
 * Zubehör (Schlüssel für Spannzange und Passende Spannzange) aus ToolsLocker-2 - Fach: CNC-3 entnehmen
 * T-Nutenplatte auf ungemeldete Beschädigungen prüfen und ggf. sofort melden
 * Werkstück (Aluminium) und Opfermaterial (Multiplex Holz) auf Grobmaß sägen und bereit halten
