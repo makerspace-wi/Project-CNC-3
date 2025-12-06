@@ -38,8 +38,8 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 
 ### Vorbereitung
 
-* Zubehör (Schlüssel für Spannzange und Passende Spannzange) aus ToolsLocker-2 - Fach: CNC-3 entnehmen
-* [T-Nutenplatte auf ungemeldete Beschädigungen prüfen und ggf. sofort melden](vb004.md)
+* [Zubehör (Schlüssel für Spannzange und Passende Spannzange) aus ToolsLocker-2 - Fach: CNC-3 entnehmen](vb004.md)
+* T-Nutenplatte auf ungemeldete Beschädigungen prüfen und ggf. sofort melden
 * Werkstück (Aluminium) und Opfermaterial (Multiplex Holz) auf Grobmaß sägen und bereit halten
 * [Füllstand des Schmiermittels prüfen - Einweiser oder Admin informieren wenn niedrig](vb002.md)
 * Unbedingt Schutzbrille bereit legen und später beim fräsen tragen
