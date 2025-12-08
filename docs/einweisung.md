@@ -25,14 +25,11 @@
     - Drehzahlen und Vorschubberechnung (hier eher konservativ vorgehen)
 * Simulieren und prüfen auf mögliche Kollisionsgefahren
 * Korrekten Postprozessor einrichten und GCode erzeugen/überprüfen/ simulieren
-
-#### 5) Persönliche Schutzausrüstung (Brille, Ohrenschutz, ...)
-
-#### 6) Maschineneckdaten und -funktion erklären (teilweise schon beim CAM Programmieren)
-
-- max. Abmessungen (Platz für Spannmöglichkeiten beachten)
-- Maschinennullpunkt erklären
-- Einschaltprozess
+1. Persönliche Schutzausrüstung (Brille, Ohrenschutz, ...)
+1. Maschineneckdaten und -funktion erklären (teilweise schon beim CAM Programmieren)
+* max. Abmessungen (Platz für Spannmöglichkeiten beachten)
+* Maschinennullpunkt erklären
+* Einschaltprozess
     - PC
     - Steuerung
     - ...
@@ -43,21 +40,16 @@
     - Opferplatten !
     - Aufspannung Rohteil
     - Spannmittelarten und -position (penibel mögliche Kollision vermeiden)
-    - ...
 - Werkzeug-/ Fräserwechsel
 - Einrichtung Bearbeitungsnullpunkt auf/an Rohteil
 - Programm einlesen
 - Absaugung
 - Bearbeitungsstart & Abbruch erklären (Notaus, ...)
 - Programm- und/oder Werkzeugwechsel (falls nötig)
-
-#### 7) Nachbereitung
-
+1. Nachbereitung
 - Abspannen
 - Aufräumen
 - Ausschalten
-- ...
-
-#### 8) Freischaltung erst nachdem zweites Projekt durchgeführt und das selbstständige Arbeiten nachgewiesen wurde  
+1. Freischaltung erst nachdem zweites Projekt durchgeführt und das selbstständige Arbeiten nachgewiesen wurde  
 
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/)
