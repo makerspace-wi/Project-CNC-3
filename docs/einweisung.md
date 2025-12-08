@@ -30,14 +30,13 @@
 * max. Abmessungen (Platz für Spannmöglichkeiten beachten)
 * Maschinennullpunkt erklären
 * Einschaltprozess
-    - PC
-    - Steuerung
-    - ...
+    * PC
+    * Steuerung
 - Erklären der Achsen und Verfahrrichtungen samt Handrad
 - Kühlung checken (Kühlmittelstand, ...)
 - Warmlaufphase
 - Einrichtung Rohteil
-    - Opferplatten !
+    - Opferplatten (Siebdruck- oder Multiplesplatten)
     - Aufspannung Rohteil
     - Spannmittelarten und -position (penibel mögliche Kollision vermeiden)
 - Werkzeug-/ Fräserwechsel
@@ -50,6 +49,7 @@
 - Abspannen
 - Aufräumen
 - Ausschalten
-1. Freischaltung erst nachdem zweites Projekt durchgeführt und das selbstständige Arbeiten nachgewiesen wurde  
+
+1. Freischaltung erfolgt nach Einschätzung des Einweisers - bis zu diesem Zeitpunkt darf die Maschine nur in Anwesenheit einer Person vom Technik Team genutzt werden (4 Augen Prinzip)
 
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/)
