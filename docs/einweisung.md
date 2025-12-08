@@ -1,5 +1,7 @@
-## Ablauf Einweisung
-#### 1) Einweisung erfolgt NUR mit konkretem Projekt (Allgemeine Einweisungen sind erfahrungsgemäß nicht sinnvoll)
+# Ablauf Einweisung
+
+1. Einweisung erfolgt NUR mit konkretem Projekt (Allgemeine Einweisungen sind erfahrungsgemäß nicht sinnvoll)
+* Der Einweiser stellt zu Beginn sicher, dass aureichende Kenntnise zur Anwendung von ESTLCAM vorhanden sind
 * *Freischaltung frühestens nach dem 2. eigenständigem Projekt, bzw. nach Einschätzung des Einweisers !*
 
 #### 2) Abfrage Projektdetails & Entscheidung, ob das Projekt sinnvoll an der CNC umsetzbar ist
