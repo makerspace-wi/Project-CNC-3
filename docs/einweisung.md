@@ -11,17 +11,17 @@
 - Material, hier nur Weichmetalle wie Aluminium, Messing ...  
 1. Abfrage der Erfahrung bzgl. CAM Programmierung und CNC gesteuerten Maschinen
 - KEINE Grundlagen CAM Programmierung vorhanden
-    - Auf verschiedene CAM Tutorials verweisen (dazu gibt es mittlerweile ausreichend Material im Internet - siehe Wiki)
-    - Um Eigeninitiative bitten, um sich in die Grundlagen einzuarbeiten
+  - Auf verschiedene CAM Tutorials verweisen (dazu gibt es mittlerweile ausreichend Material im Internet - siehe Wiki)
+  - Um Eigeninitiative bitten, um sich in die Grundlagen einzuarbeiten
 - Grundlagen CAM Programmierung vorhanden
-    - Im optimalen Fall wurde bereits was im CAM Programm der Wahl vorbereitet
-    - Gemeinsam die Projektdetails anhand des CAM Programms besprechen
+  - Im optimalen Fall wurde bereits was im CAM Programm der Wahl vorbereitet
+  - Gemeinsam die Projektdetails anhand des CAM Programms besprechen
 1. CAM Projekt gemeinsam kontrollieren, überarbeiten und simulieren
 - Bearbeitungsnullpunkt
 - Bearbeitungsreihenfolge - Bearbeitung von innen nach außen (Konturen i.d.R. zuletzt)
 - Werkzeugwahl
-    - Fräserauswahl (siehe Sorotecdokumente)
-    - Drehzahlen und Vorschubberechnung (hier eher konservativ vorgehen)
+  - Fräserauswahl (siehe Sorotecdokumente)
+  - Drehzahlen und Vorschubberechnung (hier eher konservativ vorgehen)
 - Simulieren und prüfen auf mögliche Kollisionsgefahren
 - Korrekten Postprozessor einrichten und GCode erzeugen/überprüfen/ simulieren
 1. Persönliche Schutzausrüstung (Brille, Ohrenschutz, ...)
@@ -29,15 +29,15 @@
 - max. Abmessungen (Platz für Spannmöglichkeiten beachten)
 - Maschinennullpunkt erklären
 - Einschaltprozess
-    - PC
-    - Steuerung
+  - PC
+  - Steuerung
 - Erklären der Achsen und Verfahrrichtungen samt Handrad
 - Schmiermittel checken (Schmiermittelstand, ...)
 - Warmlaufphase
 - Einrichtung Rohteil
-    - Opferplatten (Siebdruck- oder Multiplesplatten)
-    - Aufspannung Rohteil
-    - Spannmittelarten und -position (penibel mögliche Kollision vermeiden)
+  - Opferplatten (Siebdruck- oder Multiplesplatten)
+  - Aufspannung Rohteil
+  - Spannmittelarten und -position (penibel mögliche Kollision vermeiden)
 - Werkzeug-/ Fräserwechsel
 - Einrichtung Bearbeitungsnullpunkt auf/an Rohteil
 - Programm einlesen
