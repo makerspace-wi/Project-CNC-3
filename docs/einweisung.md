@@ -1,10 +1,10 @@
 # Ablauf Einweisung
 
-l. Einweisung erfolgt NUR mit konkretem Projekt (Allgemeine Einweisungen sind erfahrungsgemäß nicht sinnvoll)
+1. Einweisung erfolgt NUR mit konkretem Projekt (Allgemeine Einweisungen sind erfahrungsgemäß nicht sinnvoll)
 * Der Einweiser stellt zu Beginn sicher, dass aureichende Kenntnise zur Anwendung von ESTLCAM vorhanden sind
 * *Freischaltung frühestens nach dem 2. eigenständigem Projekt, bzw. nach Einschätzung des Einweisers !*
 
-l. Abfrage Projektdetails & Entscheidung, ob das Projekt sinnvoll an der CNC umsetzbar ist
+1. Abfrage Projektdetails & Entscheidung, ob das Projekt sinnvoll an der CNC umsetzbar ist
 
 * mit anderen Maschinen / Werkzeugen einfacher umsetzbar ?
 * max. Abmessungen
@@ -13,7 +13,7 @@ l. Abfrage Projektdetails & Entscheidung, ob das Projekt sinnvoll an der CNC ums
 * Material, hier nur Weichmetalle wie Aluminium, Messing ...
 * ...
 
-l. Abfrage der Erfahrung bzgl. CAM Programmierung und CNC gesteuerten Maschinen
+1. Abfrage der Erfahrung bzgl. CAM Programmierung und CNC gesteuerten Maschinen
 
 * KEINE Grundlagen CAM Programmierung vorhanden
     - Auf verschiedene CAM Tutorials verweisen (dazu gibt es mittlerweile ausreichend Material im Internet - siehe Wiki)
@@ -22,7 +22,7 @@ l. Abfrage der Erfahrung bzgl. CAM Programmierung und CNC gesteuerten Maschinen
     - Im optimalen Fall wurde bereits was im CAM Programm der Wahl vorbereitet
     - Gemeinsam die Projektdetails anhand des CAM Programms besprechen
 
-l. CAM Projekt gemeinsam kontrollieren, überarbeiten und simulieren
+1. CAM Projekt gemeinsam kontrollieren, überarbeiten und simulieren
 
 - Bearbeitungsnullpunkt
 - Bearbeitungsreihenfolge - Bearbeitung von innen nach außen (Konturen i.d.R. zuletzt)
