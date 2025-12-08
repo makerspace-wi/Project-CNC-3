@@ -11,7 +11,6 @@
 * Material, hier nur Weichmetalle wie Aluminium, Messing ...
 * ...  
 1. Abfrage der Erfahrung bzgl. CAM Programmierung und CNC gesteuerten Maschinen
-
 * KEINE Grundlagen CAM Programmierung vorhanden
     - Auf verschiedene CAM Tutorials verweisen (dazu gibt es mittlerweile ausreichend Material im Internet - siehe Wiki)
     - Um Eigeninitiative bitten, um sich in die Grundlagen einzuarbeiten
@@ -19,15 +18,14 @@
     - Im optimalen Fall wurde bereits was im CAM Programm der Wahl vorbereitet
     - Gemeinsam die Projektdetails anhand des CAM Programms besprechen
 1. CAM Projekt gemeinsam kontrollieren, überarbeiten und simulieren
-
-- Bearbeitungsnullpunkt
-- Bearbeitungsreihenfolge - Bearbeitung von innen nach außen (Konturen i.d.R. zuletzt)
-- Werkzeugwahl
+* Bearbeitungsnullpunkt
+* Bearbeitungsreihenfolge - Bearbeitung von innen nach außen (Konturen i.d.R. zuletzt)
+* Werkzeugwahl
     - Fräserauswahl (siehe Sorotecdokumente)
     - Drehzahlen und Vorschubberechnung (hier eher konservativ vorgehen)
     - ...
-- Simulieren und prüfen auf mögliche Kollisionsgefahren
-- Korrekten Postprozessor einrichten und GCode erzeugen/überprüfen/ simulieren
+* Simulieren und prüfen auf mögliche Kollisionsgefahren
+* Korrekten Postprozessor einrichten und GCode erzeugen/überprüfen/ simulieren
 
 #### 5) Persönliche Schutzausrüstung (Brille, Ohrenschutz, ...)
 
