@@ -23,7 +23,6 @@
 * Werkzeugwahl
     - Fräserauswahl (siehe Sorotecdokumente)
     - Drehzahlen und Vorschubberechnung (hier eher konservativ vorgehen)
-    - ...
 * Simulieren und prüfen auf mögliche Kollisionsgefahren
 * Korrekten Postprozessor einrichten und GCode erzeugen/überprüfen/ simulieren
 
