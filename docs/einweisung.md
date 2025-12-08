@@ -21,8 +21,8 @@
 * Bearbeitungsnullpunkt
 * Bearbeitungsreihenfolge - Bearbeitung von innen nach außen (Konturen i.d.R. zuletzt)
 * Werkzeugwahl
-    - Fräserauswahl (siehe Sorotecdokumente)
-    - Drehzahlen und Vorschubberechnung (hier eher konservativ vorgehen)
+    * Fräserauswahl (siehe Sorotecdokumente)
+    * Drehzahlen und Vorschubberechnung (hier eher konservativ vorgehen)
 * Simulieren und prüfen auf mögliche Kollisionsgefahren
 * Korrekten Postprozessor einrichten und GCode erzeugen/überprüfen/ simulieren
 1. Persönliche Schutzausrüstung (Brille, Ohrenschutz, ...)
@@ -32,13 +32,13 @@
 * Einschaltprozess
     * PC
     * Steuerung
-- Erklären der Achsen und Verfahrrichtungen samt Handrad
-- Kühlung checken (Kühlmittelstand, ...)
-- Warmlaufphase
-- Einrichtung Rohteil
-    - Opferplatten (Siebdruck- oder Multiplesplatten)
-    - Aufspannung Rohteil
-    - Spannmittelarten und -position (penibel mögliche Kollision vermeiden)
+* Erklären der Achsen und Verfahrrichtungen samt Handrad
+* Kühlung checken (Kühlmittelstand, ...)
+* Warmlaufphase
+* Einrichtung Rohteil
+    * Opferplatten (Siebdruck- oder Multiplesplatten)
+    * Aufspannung Rohteil
+    * Spannmittelarten und -position (penibel mögliche Kollision vermeiden)
 - Werkzeug-/ Fräserwechsel
 - Einrichtung Bearbeitungsnullpunkt auf/an Rohteil
 - Programm einlesen
