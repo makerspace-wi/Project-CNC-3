@@ -27,18 +27,18 @@
 * Korrekten Postprozessor einrichten und GCode erzeugen/überprüfen/ simulieren
 1. Persönliche Schutzausrüstung (Brille, Ohrenschutz, ...)
 1. Maschineneckdaten und -funktion erklären (teilweise schon beim CAM Programmieren)
-* max. Abmessungen (Platz für Spannmöglichkeiten beachten)
-* Maschinennullpunkt erklären
-* Einschaltprozess
-    * PC
-    * Steuerung
-* Erklären der Achsen und Verfahrrichtungen samt Handrad
-* Kühlung checken (Kühlmittelstand, ...)
-* Warmlaufphase
-* Einrichtung Rohteil
-    * Opferplatten (Siebdruck- oder Multiplesplatten)
-    * Aufspannung Rohteil
-    * Spannmittelarten und -position (penibel mögliche Kollision vermeiden)
+- max. Abmessungen (Platz für Spannmöglichkeiten beachten)
+- Maschinennullpunkt erklären
+- Einschaltprozess
+    - PC
+    - Steuerung
+- Erklären der Achsen und Verfahrrichtungen samt Handrad
+- Schmiermittel checken (Schmiermittelstand, ...)
+- Warmlaufphase
+- Einrichtung Rohteil
+    - Opferplatten (Siebdruck- oder Multiplesplatten)
+    - Aufspannung Rohteil
+    - Spannmittelarten und -position (penibel mögliche Kollision vermeiden)
 - Werkzeug-/ Fräserwechsel
 - Einrichtung Bearbeitungsnullpunkt auf/an Rohteil
 - Programm einlesen
