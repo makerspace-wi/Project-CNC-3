@@ -3,7 +3,6 @@
 1. Einweisung erfolgt NUR mit konkretem Projekt (Allgemeine Einweisungen sind erfahrungsgemäß nicht sinnvoll)
 * Der Einweiser stellt zu Beginn sicher, dass aureichende Kenntnise zur Anwendung von ESTLCAM vorhanden sind
 * Freischaltung frühestens nach dem 2. eigenständigem Projekt, bzw. nach Einschätzung des Einweisers !  
-
 1. Abfrage Projektdetails & Entscheidung, ob das Projekt sinnvoll an der CNC umsetzbar ist
 * mit anderen Maschinen / Werkzeugen einfacher umsetzbar ?
 * max. Abmessungen
@@ -11,7 +10,6 @@
 * Zeitfaktor
 * Material, hier nur Weichmetalle wie Aluminium, Messing ...
 * ...  
-
 1. Abfrage der Erfahrung bzgl. CAM Programmierung und CNC gesteuerten Maschinen
 
 * KEINE Grundlagen CAM Programmierung vorhanden
@@ -20,7 +18,6 @@
 * Grundlagen CAM Programmierung vorhanden
     - Im optimalen Fall wurde bereits was im CAM Programm der Wahl vorbereitet
     - Gemeinsam die Projektdetails anhand des CAM Programms besprechen
-
 1. CAM Projekt gemeinsam kontrollieren, überarbeiten und simulieren
 
 - Bearbeitungsnullpunkt
