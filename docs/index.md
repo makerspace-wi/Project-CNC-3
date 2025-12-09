@@ -51,7 +51,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 * T-Nutenplatte auf ungemeldete Beschädigungen prüfen und ggf. sofort melden
 * Werkstück (Aluminium) und Opfermaterial (Multiplex Holz) auf Grobmaß sägen und bereit halten
 * [Füllstand des Schmiermittels prüfen - Einweiser oder Admin informieren wenn niedrig](vb002.md)
-* Unbedingt Schutzbrille bereit legen und später beim fräsen tragen
+* Unbedingt Schutzbrille & Gehörschutz bereit legen und später beim fräsen unbedingt tragen
 * [CNC-3 einschalten und mit RFID-Chip anmelden](vb001.md)
 
 ### Work in process
