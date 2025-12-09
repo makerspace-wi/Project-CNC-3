@@ -69,7 +69,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 * [Absauge einschalten]()
 * [Fräsvorgang starten]() <br><br>
 * [Fräse runter fahren (ausschalten)]()
-* Komplette Fräse (auch unter den Kabelführungen) und den gesamten Bodenbereich rund um und unter der Fräse reinigen - dafür ca. 1 Stunde einplanen.
+* [Endreinigung - Zeitaufwand ca. 1 Stunde](reinigung.md)
 
 ## Weiterführende Dokumentationen
 
