@@ -58,8 +58,6 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 
 ## Hilfestellungen zum Fräsjob
 
-## Nachbereitung  
-
 * [CNC Controller V12 starten]()
 * [Fräser montieren]()  
 * [Werkstück auf Arbeitsfläche einspannen]()
@@ -67,7 +65,11 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 * [Nullpunkt anfahren und Achsen 'nullen']()
 * [Z-Achse nullen]()
 * [Absauge einschalten]()
-* [Fräsvorgang starten]() <br><br>
+* [Fräsvorgang starten]()
+
+
+## Nachbereitung  
+
 * [Fräse runter fahren (ausschalten)]()
 * [Endreinigung - Zeitaufwand ca. 1 Stunde](reinigung.md)
 
