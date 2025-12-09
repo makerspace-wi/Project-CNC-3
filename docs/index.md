@@ -58,7 +58,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 
 ## Hilfestellungen zum Fräsjob
 
-* [CNC Controller V12 starten](controller starten.md)
+* [CNC Controller starten](controller starten.md)
 * [Fräser montieren]()  
 * [Werkstück auf Arbeitsfläche einspannen]()
 * [Projekt-File mit Estlcam CNC-Steuerung öffnen]()
