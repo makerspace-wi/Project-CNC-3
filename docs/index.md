@@ -39,7 +39,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
   - <a href="https://www.youtube.com/@fusionfurholzbastler1901/playlists" target="_blank">Fusion360 für Holzbastler - Playlist</a>
   - <a href="https://www.youtube.com/@knowhowschmiede/featured" target="_blank">know-how-schmiede</a>
   - <a href="https://www.youtube.com/@HaraldHartmann/videos" target="_blank">Harald Hartmann</a>
-  - viele weitere Tutorials unter Google Suche<a href="https://www.youtube.com/@HaraldHartmann/videos](https://www.google.com/search?q=fusion360+tutorials&rlz=1C5CHFA_enDE697DE697&oq=fusion360+tutorials&aqs=chrome..69i57j0i10i512l2j0i10i15i22i30j0i22i30l5.6894j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Fusion360 Tutorials</a>
+  - viele weitere Tutorials unter Google Suche <a href="https://www.youtube.com/@HaraldHartmann/videos](https://www.google.com/search?q=fusion360+tutorials&rlz=1C5CHFA_enDE697DE697&oq=fusion360+tutorials&aqs=chrome..69i57j0i10i512l2j0i10i15i22i30j0i22i30l5.6894j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Fusion360 Tutorials</a>
 
 ## Fräsprojekt Ablauf
 
