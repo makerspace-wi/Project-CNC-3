@@ -32,7 +32,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
   - <a href="https://www.youtube.com/watch?v=3ujPAEB8xeg" target="_blank">Die Hilfefunktionen</a>
   - <a href="https://www.youtube.com/watch?v=sXvNqufWKvA" target="_blank">Tastenbelegung NUMPAD + Maus</a>
   - <a href="https://www.youtube.com/@ChristianKnuell/videos" target="_blank">weitere auf der YOUTUBE Seite von Christian Knüll</a>
-
+<br>
 - Hilfreiche Links zur Verwendung von AutoCAD Fusion360  
   - <a href="https://www.youtube.com/@cadcamstuff" target="_blank">Fusion360 Tutorials with Lars Christensen</a>
   - <a href="https://www.youtube.com/@fusionfurholzbastler1901/featured" target="_blank">Fusion360 für Holzbastler</a>
