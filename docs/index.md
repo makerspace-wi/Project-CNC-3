@@ -21,7 +21,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 
 ### Details zur Bedienung, Einrichtung & Wartung können in der folgenden Dokumentation nachgelesen werden.  
 
-!!! Bei Unsicherheiten in der Bedienung BITTE IMMER einen Einweiser kontaktieren !!!  
+!!! Bei Unsicherheiten in der Bedienung **IMMER** einen Einweiser kontaktieren !!!  
 
 [Bezugsquellen und Hilfsmittel](bezugsquellen.md)
 <br><br>
