@@ -7,7 +7,7 @@ Die Fräse ist zunächst nur für die Bearbeitung von Weichmetallen (Aluminium u
 * Bei der Nutzung der CNC-3 entstehen zusätzliche Kosten, bedingt durch den Verbrauch von Kühl-/Schmiermittel (ca. € 10,--/Liter) der MMS (Minimalmengenschmierung). Der Verrechnungsmodus ist noch nicht definiert - wird aber zu einem späteren Zeitpunkt hier erklärt.
 * Desweiteren werden immer dann € 50,-- fällig, wenn durch eine Fehleinstellung in die (teure) T-Nutenplatte gefräst oder gebohrt wird. 
 Dieser Betrag wird in der Maschinenkasse hinterlegt und zu gegebener Zeit dazu verwendet, Ersatz zu beschaffen.<br>
-Nach einer Beschädigung muss der Verursacher dies zeitnah melden und die € 50,-- zahlen. Wird eine Beschädigung ohne Meldung festgestellt, wird  der letzte Nutzer verpflichtet, den Betrag zu zahlen.
+Nach einer Beschädigung muss der Verursacher dies **zeitnah melden** und die € 50,-- zahlen. Wird eine Beschädigung ohne Meldung festgestellt, wird  der letzte Nutzer verpflichtet, den Betrag zu zahlen.
 Daher ist es ratsam, unbedingt vor jedem Projekt zu prüfen, ob neue, nicht gemeldete Beschädigungen vorliegen.  
 
 * Jeder potentielle Nutzer der CNC-3 muß sich rechtzeitig einen <ins>eigenen</ins> Satz Alu-Fräser anschaffen - <a href="https://hc-maschinentechnik.de/Fraeser-fuer-Aluminium" target="_blank">hc-maschinentechnik</a> oder <a href="https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/sorotec-fraesersets/" target="_blank">SOROTEC</a>
