@@ -54,7 +54,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 
 ## Hilfestellungen zum Fräsjob
 
-* [Startsituation - CAM Projetfile generieren](startcam.md)
+* [Startsituation - CAM Projektfile generieren](startcam.md)
 * [CNC Controller starten](startcontroller.md)
 * [Fräser montieren]()  
 * [Werkstück auf Arbeitsfläche einspannen]()
