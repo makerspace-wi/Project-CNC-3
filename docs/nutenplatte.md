@@ -5,7 +5,7 @@ Sollte durch Fehleinstellung oder Unachtsamkeit in die Aluminium-Nutenplatte gef
 Dieser Betrag wird in der Maschinenkasse hinterlegt und zu gegebener Zeit dazu verwendet, Ersatz zu beschaffen.<br>
 Nach einer Beschädigung muss der Verursacher dies **zeitnah melden** und die € 50,-- zahlen.  
 
-Wird eine Beschädigung ohne Meldung festgestellt, wird  der letzte Nutzer verpflichtet, den Betrag zu zahlen.
+Wird eine Beschädigung ohne Meldung festgestellt, wird  <u>der letzte Nutzer</u> verpflichtet, den Betrag zu zahlen.
 Daher ist es ratsam, unbedingt **vor** jedem Projekt zu prüfen, ob neue, nicht gemeldete Beschädigungen vorliegen.  
 
 Beschädigungen werden im Maschinenlogbuch vermerkt.
