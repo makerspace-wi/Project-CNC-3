@@ -52,11 +52,10 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 * Schutzbrille & Gehörschutz bereit legen und später beim fräsen unbedingt tragen
 * [CNC-3 einschalten und mit RFID-Chip anmelden](vb001.md)
 
-### Work in process
-
 ## Hilfestellungen zum Fräsjob
 
-* [CNC Controller starten](controller starten.md)
+* [Startsituation - CAM Projetfile generieren](startcam.md)
+* [CNC Controller starten](startcontroller.md)
 * [Fräser montieren]()  
 * [Werkstück auf Arbeitsfläche einspannen]()
 * [Projekt-File mit Estlcam CNC-Steuerung öffnen]()
