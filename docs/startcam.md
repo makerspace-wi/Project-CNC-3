@@ -11,7 +11,7 @@ Hinweis: Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt
 - der Nutzer hat sich ein eignes Set an benötigten Fräsern angeschafft
 - der Nutzer hat seine 2D- (DXF oder SVG) oder 3D-Zeichnung (STL) erstellt und auf dem USB-Stick gespeichert
 
-Jeder Neuling muss zuerst die Werkzeugliste (oben/rechts) an das eigne Fräserset anpassen, d.h. dort alle Fräserparameter eintragen.  
+Jeder Neuling muss zuerst die Werkzeugliste (oben/rechts) an das eigene Fräserset anpassen, d.h. dort alle Fräserparameter eintragen.  
 
 Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei der nächsten Nutzung wieder geladen werden kann. <br>
 VORSICHT: Wird der CAM-Controller aufgerufen, zeigt Estlcam immer die zuletzt genutzte Werkzeugliste an, d.h. die vom vorherigen Nutzer.
