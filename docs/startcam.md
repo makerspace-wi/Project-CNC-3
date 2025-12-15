@@ -18,7 +18,7 @@ Jeder Neuling muss zuerst die Werkzeugliste (oben/rechts) an das eigene Fräsers
 Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei der nächsten Nutzung wieder geladen werden kann. <br>
 **VORSICHT:** Nach Aufruf des CAM-Controllers, zeigt Estlcam immer die zuletzt genutzte Werkzeugliste an, d.h. die vom letzten Benutzer.  
 
-Also **immer** zu Beginn eines neuen Projekts <u>zuerst</u> die eigene Werkzeugliste laden und erst dann die zu bearbeitende Zeichnung laden, die dann entsprechend bearbeitet wird. 
+Also **immer** zu Beginn eines neuen Projekts <u>zuerst</u> die eigene Werkzeugliste und erst dann die zu bearbeitende Zeichnung laden, die dann entsprechend bearbeitet wird. 
 
 <img src="images/cam_02.PNG" width="400">
 
