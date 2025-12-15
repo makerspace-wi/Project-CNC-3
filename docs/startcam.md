@@ -22,7 +22,9 @@ Also **immer** zu Beginn eines neuen Projekts <u>zuerst</u> die eigene Werkzeugl
 
 <img src="images/cam_02.PNG" width="400">
 
-Am Ende dann im Menü Datei '***Projekt speichern***' wählen. Die Projektdatei ist die wichtigste Datei, da sie alle Details enthält und auch spätere Änderungen erlaubt.
+Am Ende dann im Menü Datei '***Projekt speichern***' wählen.  
+
+Die Projektdatei ist die wichtigste Datei, da sie alle Details enthält und auch spätere Änderungen erlaubt.
 
 <img src="images/cam_03.PNG" width="600">
 
