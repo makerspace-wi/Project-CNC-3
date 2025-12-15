@@ -2,7 +2,7 @@
 
 Hinweis: Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt, wenn man den Mauszeiger darüber positioniert.  
 
-<img src="images/Icons.PNG" width="400">  <img src="images/camprojekt.png" width="400">
+<img src="images/Icons.PNG" width="300">  <img src="images/camprojekt.png" width="600">
 
 ## Voraussetzungen und Annahmen
 
