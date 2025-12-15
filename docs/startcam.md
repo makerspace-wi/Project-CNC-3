@@ -1,6 +1,6 @@
 # CAM-Controller starten und Projektfile anlegen
 
-<img src="images/camprojekt.png" width="800">
+<img src="images/Icons Kopie 1.png" width="400">  <img src="images/camprojekt.png" width="800">
 
 Hinweis: Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt, wenn man den Mauszeiger darüber positioniert.  
 
@@ -13,7 +13,7 @@ Hinweis: Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt
 
 Jeder Neuling muss zuerst die Werkzeugliste (oben/rechts) an das eigene Fräserset anpassen, d.h. dort alle Fräserparameter eintragen. In etwa so:
 
-<img src="images/Icons Kopie 1.png" width="400">  <img src="images/werkzeugliste.PNG" width="400">
+ <img src="images/werkzeugliste.PNG" width="600">
 
 Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei der nächsten Nutzung wieder geladen werden kann. <br>
 **VORSICHT:** Nach Aufruf des CAM-Controllers, zeigt Estlcam immer die zuletzt genutzte Werkzeugliste an, d.h. die vom letzten Benutzer.  
@@ -25,7 +25,6 @@ Also **immer** zu Beginn eines neuen Projekts <u>zuerst</u> die eigene Werkzeugl
 Am Ende dann im Menü Datei '***Projekt speichern***' wählen. Die Projektdatei ist die wichtigste Datei, da sie alle Details enthält und auch spätere Änderungen erlaubt.
 
 <img src="images/cam_03.PNG" width="400">
-
 
 
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/#hilfestellungen-zum-fr%C3%A4sjob)
