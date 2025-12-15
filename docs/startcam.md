@@ -16,7 +16,11 @@ Jeder Neuling muss zuerst die Werkzeugliste (oben/rechts) an das eigene Fräsers
 <img src="images/werkzeugliste.PNG" width="600">
 
 Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei der nächsten Nutzung wieder geladen werden kann. <br>
-**VORSICHT:** Nach Aufruf des CAM-Controllers, zeigt Estlcam immer die zuletzt genutzte Werkzeugliste an, d.h. die vom letzten Benutzer.
+**VORSICHT:** Nach Aufruf des CAM-Controllers, zeigt Estlcam immer die zuletzt genutzte Werkzeugliste an, d.h. die vom letzten Benutzer.  
+
+Also immer zu Beginn einer neuen Projekt-File vorher die eigene Werkzeugliste laden!
+
+
 
 
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/#hilfestellungen-zum-fr%C3%A4sjob)werkzeuglistes
