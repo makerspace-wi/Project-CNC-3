@@ -11,7 +11,7 @@ Hinweis: Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt
 - der Nutzer hat sich ein eigenes Set an benötigten Fräsern angeschafft
 - der Nutzer hat seine 2D- (DXF oder SVG) oder 3D-Zeichnung (STL) erstellt und auf dem USB-Stick gespeichert
 
-Jeder Neuling muss zuerst die Werkzeugliste (oben/rechts) an das eigene Fräserset anpassen, d.h. dort alle Fräserparameter eintragen. In etwa so:
+Jeder Neuling muss zuerst die Werkzeugliste (oben/rechts) an das eigene Fräserset anpassen, d.h. dort alle Fräserparameter eintragen. Zum Beispiel so:
 
  <img src="images/werkzeugliste.PNG" width="600">
 
