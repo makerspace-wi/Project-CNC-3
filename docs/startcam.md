@@ -1,8 +1,8 @@
 # CAM-Controller starten und Projektfile anlegen
 
-<img src="images/Icons.png" width="400">  <img src="images/camprojekt.png" width="800">
-
 Hinweis: Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt, wenn man den Mauszeiger darüber positioniert.  
+
+<img src="images/Icons.png" width="400">  <img src="images/camprojekt.png" width="800">
 
 ## Voraussetzungen und Annahmen
 
