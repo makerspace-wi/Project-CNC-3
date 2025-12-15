@@ -14,7 +14,7 @@ Hinweis: Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt
 Jeder Neuling muss zuerst die Werkzeugliste (oben/rechts) an das eigene Fräserset anpassen, d.h. dort alle Fräserparameter eintragen.  
 
 Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei der nächsten Nutzung wieder geladen werden kann. <br>
-**VORSICHT:** Nach Aufruf des CAM-Controllers, zeigt Estlcam immer die zuletzt genutzte Werkzeugliste an, d.h. die vom vorherigen Nutzer.
+**VORSICHT:** Nach Aufruf des CAM-Controllers, zeigt Estlcam immer die zuletzt genutzte Werkzeugliste an, d.h. die vom letzten Benutzer.
 
 
-[Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/#hilfestellungen-zum-fr%C3%A4sjob)
+[Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/#hilfestellungen-zum-fr%C3%A4sjob)werkzeuglistes
