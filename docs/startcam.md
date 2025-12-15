@@ -20,7 +20,7 @@ Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit ein
 
 Also **immer** zu Beginn eines neuen Projekts <u>zuerst</u> die eigene Werkzeugliste laden und erst dann die zu bearbeitende Zeichnung laden, die dann entsprechend bearbeitet wird. 
 
-<img src="images/cam_01.PNG" width="400"><img src="images/cam_02.PNG" width="400">
+<img src="images/cam_01.PNG" width="400">  <img src="images/cam_02.PNG" width="400">
 
 Am Ende dann im Menü Datei '***Projekt speichern***' wählen. Die Projektdatei ist die wichtigste Datei, da sie alle Details enthält und auch spätere Änderungen erlaubt.
 
