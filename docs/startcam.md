@@ -26,7 +26,7 @@ Am Ende dann im Menü Datei '***Projekt speichern***' wählen.
 
 Die Projektdatei ist die wichtigste Datei, da sie alle Details enthält und auch spätere Änderungen erlaubt.
 
-<img src="images/cam_03.PNG" width="600">
+<img src="images/cam_03.PNG" width="700">
 
 
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/#hilfestellungen-zum-fr%C3%A4sjob)
