@@ -17,13 +17,13 @@ Nach Start des CAM-Modules wird folgender Bildschirm angezeigt, immer mit der St
 - der Nutzer hat sich ein eigenes Set an benötigten Fräsern angeschafft (Einweisung ggf. mit vorhandenen Fräsern)
 - der Nutzer hat seine 2D- (DXF oder SVG) oder 3D-Zeichnung (STL) erstellt und auf dem USB-Stick gespeichert
 
-Jeder Neuling muss zuerst die Werkzeugliste (oben/rechts) an das eigene Fräserset anpassen, d.h. dort alle Fräserparameter eintragen.
+Jeder Neuling muss zuerst alle Fräserparameter des eigenen Fräserset in die Werkzeugliste eintragen.
 
- [Werkzeugliste anlegen](werkzeugliste.md)
+[Werkzeugliste anlegen](werkzeugliste.md)
 
 Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei der nächsten Nutzung wieder geladen werden kann. <br>
 
-Also **immer** zu Beginn eines neuen Projekts <u>zuerst</u> die eigene Werkzeugliste und erst dann die zu bearbeitende Zeichnung laden, die dann entsprechend bearbeitet wird. 
+Also **immer** zu Beginn eines neuen Projekts <u>zuerst</u> die zu bearbeitende Zeichnung und erst dann die eigene Werkzeugliste laden.
 
 <img src="images/cam_02.PNG" width="400">
 
