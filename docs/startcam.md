@@ -1,5 +1,9 @@
 # CAM-Controller starten und Projektfile anlegen
 
+Jeder kann sich eine Demo-Version der aktuellen ESTLCAM Software zu Hause auf seinem Windows-Rechner installieren.  
+
+Apple Nutzer können die installierte Version auf dem Rechner im Elektronikraum benutzen.
+
 Hinweis: Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt, wenn man den Mauszeiger darüber positioniert.  
 
 Nach Start des CAM-Modules wird folgender Bildschirm angezeigt, immer mit der Standrad Werkzeugliste.
