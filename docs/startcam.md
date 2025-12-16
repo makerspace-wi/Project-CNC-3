@@ -21,7 +21,7 @@ Jeder Neuling muss zuerst alle Fräserparameter des eigenen Fräserset in die We
 
 [Werkzeugliste anlegen](werkzeugliste.md)
 
-Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei der nächsten Nutzung wieder geladen werden kann. <br>
+Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei weiteren Nutzungen wieder geladen werden kann. <br>
 
 Also **immer** zu Beginn eines neuen Projekts <u>zuerst</u> die zu bearbeitende Zeichnung und erst dann die eigene Werkzeugliste laden.
 
