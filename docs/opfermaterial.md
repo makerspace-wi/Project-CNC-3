@@ -1,6 +1,6 @@
 # Opfermaterial
 
-Das Alu-Romaterial ist **immer** auf einem Opfermaterial zu spannen. Dafür eignen sich dünne Siebdruck- oder Multiplexplatten, die auf das Maß des Werkstücks gesägt wurden.
+Das Alu-Rohmaterial ist **immer** auf einem Opfermaterial zu spannen. Dafür eignen sich dünne Siebdruck- oder Multiplexplatten, die auf das Maß des Werkstücks gesägt wurden.
 
 <img src="images/IMG_6312.jpg" width="300">
 
