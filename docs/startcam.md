@@ -21,6 +21,8 @@ Jeder Neuling muss zuerst die Werkzeugliste (oben/rechts) an das eigene Fräsers
 
  <img src="images/werkzeugliste.PNG" width="600">
 
+ [Werzeugliste anlegen]{werkzeugliste.md}
+
 Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei der nächsten Nutzung wieder geladen werden kann. <br>
 
 Also **immer** zu Beginn eines neuen Projekts <u>zuerst</u> die eigene Werkzeugliste und erst dann die zu bearbeitende Zeichnung laden, die dann entsprechend bearbeitet wird. 
