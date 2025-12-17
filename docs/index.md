@@ -67,7 +67,8 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 
 ## Nachbereitung  
 
-* [Fräse runter fahren (ausschalten)]()
+* [Fräse runter fahren (ausschalten)](shutdown.md)
+
 * [Endreinigung - Zeitaufwand ca. 1 Stunde](reinigung.md)
 
 ## Weiterführende Dokumentationen
