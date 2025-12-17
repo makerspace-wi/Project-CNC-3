@@ -1,6 +1,6 @@
 # CAM-Controller starten und Projektfile anlegen
 
-Jeder kann sich eine Demo-Version der aktuellen [ESTLCAM Software](https://www.estlcam.de/) zu Hause auf seinem Windows-Rechner installieren.  
+Jeder kann sich eine Demo-Version der aktuellen [ESTLCAM Software](https://www.estlcam.de/) zu Hause auf seinem Windows-Rechner installieren, um ESTLCAM zu studieren und/oder die eigene Werkzeugliste anzulegen.  
 
 Apple Nutzer können die installierte Version auf dem Rechner im Elektronikraum benutzen.
 
