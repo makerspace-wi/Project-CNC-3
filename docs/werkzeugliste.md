@@ -4,6 +4,8 @@ Die gezeigte Werkzeuglist ist lediglich ein Beispiel - die eigene Werkzeugliste 
 
  <img src="images/werkzeugliste.PNG" width="600">  
 
+ Am besten gleich angewöhnen, beim Namen des Fräsers auch die wichtigsten Parameter mit anzugeben, z.B. Schaftfräser Z1 6.0/17 Kunststoff (Einzahn, Durchmesser 6mm, Frästiefe 17mm, Geeignet für Kunststoff)
+
 Die folgenden Links unterstützen Euch beim anlegen der Werkzeugliste:  
 
 - <a href="https://www.youtube.com/watch?v=hAuFUJFVQ4M" target="_blank">Die Listenansicht</a>
