@@ -20,13 +20,13 @@ Jeder Neuling muss zuerst alle Fräserparameter des eigenen Fräsersets in die W
 
 [Werkzeugliste anlegen](werkzeugliste.md)
 
-Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei weiteren Nutzungen wieder geladen werden kann. <br>
+Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei weiteren Nutzungen wieder geladen werden kann.   
 
 Also **immer** zu Beginn eines neuen Projekts <u>zuerst</u> die zu bearbeitende Zeichnung und erst dann die eigene Werkzeugliste laden.
 
 <img src="images/cam_02.PNG" width="400">
 
-Am Ende dann im Menü Datei '***Projekt speichern***' wählen.  
+Am Ende dann im Menü Datei '***Projekt speichern***' wählen, dabei wird dann auch die genutzte Werkzeugliste für dieses Projekt gespeichert. 
 
 Die Projektdatei ist die wichtigste Datei, da sie alle Details enthält und auch spätere Änderungen erlaubt.
 
