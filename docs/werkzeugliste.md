@@ -10,5 +10,8 @@ Die folgenden Links unterstützen Euch beim anlegen der Werkzeugliste:
 - <a href="https://www.youtube.com/watch?v=ulKHbmKEAJ8" target="_blank">Die Werkzeug Detailansicht</a>
 - <a href="https://www.youtube.com/watch?v=FUI7nvCAFAw" target="_blank">Parametersätze</a>
 
+Die Werkzeugliste kann auch Bilder der Fräser abspeichern und später anzeigen. Die jeweiligen Bild-Dateien können bei Sorotec oder HC-Maschinentechnik kopiert werden.  
+
+Interessant ist es auch, sich mit der CNV-Version der Werkzeugliste zu beschäftigen. Diese kann dann bequem in einem Tabellenprogramm bearbeitet werden.
  
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/startcam.html#voraussetzungen-und-annahmen)
