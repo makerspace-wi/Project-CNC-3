@@ -20,15 +20,17 @@ Jeder Neuling muss zuerst alle Fräserparameter des eigenen Fräsersets in die W
 
 [Werkzeugliste anlegen](werkzeugliste.md)
 
-Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei weiteren Nutzungen wieder geladen werden kann.   
+Ist dies geschehen, unbedingt die Werkzeugliste auf dem eignen USB-Stick mit eindeutigem Namen abspeichern, damit sie bei weiteren Nutzungen wieder geladen werden kann.  
 
 Also **immer** zu Beginn eines neuen Projekts <u>zuerst</u> die zu bearbeitende Zeichnung und erst dann die eigene Werkzeugliste laden, oder die Projektliste eines bereits begonnenem Projekts öffnen (dabei wird dann die korrekte Werkzeugliste angezeigt).
 
 <img src="images/cam_02.PNG" width="400">
 
+An dieser Stelle wird definiert, was, wie und mit welchem Fräser gearbeitet werden soll (Aussenkanten, Ausschnitte, Taschen, Gravuren, Bohren, Texte setzen, Projektnullpunkt usw.). Dies wird bei der Einweisung an einem einfachen Projekt praktiziert und erfordert jede Menge Eigeninitiative alle ESTLCAM Funktionen zu verstehen und anzuwenden.
+
 Am Ende dann im Menü Datei '***Projekt speichern***' wählen, dabei wird dann auch die genutzte Werkzeugliste für dieses Projekt gespeichert. 
 
-Die Projektdatei ist die wichtigste Datei, da sie alle Details enthält und auch spätere Änderungen erlaubt.
+Die Projektdatei ist die wichtigste Datei, da sie alle Details enthält und auch spätere Änderungen zulässt.
 
 <img src="images/cam_03.PNG" width="700">
 
