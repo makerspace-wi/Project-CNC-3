@@ -1,8 +1,10 @@
 # Werkzeugliste
 
-Die folgende Werkzeuglist ist lediglich ein Beispiel - die eigene Werkzeugliste sieht mit Sicherheit anders aus.
+Die gezeigte Werkzeuglist ist lediglich ein Beispiel - die eigene Werkzeugliste sieht mit Sicherheit anders aus.
 
  <img src="images/werkzeugliste.PNG" width="600">  
+
+Die folgenden Links unterstützen Euch beim anlegen der Werkzeugliste:  
 
 - <a href="https://www.youtube.com/watch?v=hAuFUJFVQ4M" target="_blank">Die Listenansicht</a>
 - <a href="https://www.youtube.com/watch?v=ulKHbmKEAJ8" target="_blank">Die Werkzeug Detailansicht</a>
