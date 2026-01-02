@@ -34,9 +34,11 @@ Die Projektdatei ist die wichtigste Datei, da sie alle Details enthält und auch
 
 <img src="images/cam_03.PNG" width="700">
 
-An dieser Stelle dann unbedingt die Vorschau starten - es wird dann eine Frässimulation angezeigt. 
+An dieser Stelle dann unbedingt die Vorschau starten und 
 
 <img src="images/cam_04.PNG" width="100">
+
+es wird dann eine Frässimulation angezeigt:
 
 <img src="images/cam_05.PNG" width="400">
 
