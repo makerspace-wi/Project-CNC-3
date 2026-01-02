@@ -47,4 +47,4 @@ Die Lage/Größe der Modellierung kann mit den Tasten oder der Maus angepasst we
 Ziel sollte es sein, das komplette Projekt mit einem Fräser abzuarbeiten, da die CNC-3 keinen Werkzeugwechsler hat. 
 Bei Projekten mit unterschiedlichen Fräsern wird zum Werkzeugwechsel die Maschine angehalten und muss nach Fräserwechsel und Z-Achsennullung wieder gestartet werden.  
 
-[Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/#hilfestellungen-zum-fr%C3%A4sjob)  [Weiter](startcontroller.md)
+[Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/#hilfestellungen-zum-fr%C3%A4sjob)  __---__  [Weiter](startcontroller.md)
