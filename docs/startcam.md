@@ -38,9 +38,11 @@ An dieser Stelle dann unbedingt die Vorschau starten und
 
 <img src="images/cam_04.PNG" width="100">
 
-es wird dann eine Frässimulation angezeigt:
+es wird dann die Frässimulation angezeigt:
 
 <img src="images/cam_05.PNG" width="700">
+
+Die Lage/Größe der Modellierung kann mit den Tasten oder der Maus angepasst werden. Mit der Starttaste wirde die Simultion gestartet und erlaubt einen Einblick in die Fahrwege des Fräsers - der besondere Augenmerk muss dabei auf der Eintauchtiefe des Fräsers liegen.
 
 Ziel sollte es sein, das komplette Projekt mit einem Fräser abzuarbeiten, da die CNC-3 keinen Werkzeugwechsler hat. 
 Bei Projekten mit unterschiedlichen Fräsern wird zum Werkzeugwechsel die Maschine angehalten und muss nach Fräserwechsel und Z-Achsennullung wieder gestartet werden.  
