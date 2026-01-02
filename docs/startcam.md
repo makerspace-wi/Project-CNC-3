@@ -36,9 +36,9 @@ Die Projektdatei ist die wichtigste Datei, da sie alle Details enthält und auch
 
 An dieser Stelle dann unbedingt die Vorschau starten - es wird dann eine Frässimulation angezeigt. 
 
-<img src="images/cam_03.PNG" width="400">
+<img src="images/cam_04.PNG" width="300">
 
-<img src="images/cam_04.PNG" width="400">
+<img src="images/cam_05.PNG" width="400">
 
 Ziel sollte es sein, das komplette Projekt mit einem Fräser abzuarbeiten, da die CNC-3 keinen Werkzeugwechsler hat. 
 Bei Projekten mit unterschiedlichen Fräsern wird zum Werkzeugwechsel die Maschine angehalten und muss nach Fräserwechsel und Z-Achsennullung wieder gestartet werden.  
