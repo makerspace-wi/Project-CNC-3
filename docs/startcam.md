@@ -38,9 +38,21 @@ An dieser Stelle dann unbedingt die Vorschau starten und
 
 <img src="images/cam_04.PNG" width="100">
 
-es wird dann die Frässimulation angezeigt:
+Die Anzeige für die Frässimulation ist zuerst eine Draufsicht
 
-<img src="images/cam_05.PNG" width="700">
+<img src="images/Screenshot 2026-01-06 182609.png" width="700">
+
+ein Doppelklick auf die Bildschirmfläche führt zur zur Raumsicht:
+
+<img src="images/Screenshot 2026-01-06 182641.png" width="700">
+
+ein weiterer Doppelklick bringt dich zur Seitenansicht
+
+<img src="images/Screenshot 2026-01-06 182737.png" width="700">
+
+Dies Ansicht bitte genau bewerten, da sie die tatsächliche Frästiefe zeigt. ****Diese darf auf keinen Fall die Höhe von Werkstück plus Opferplatte überschreiten!****
+
+
 
 Die Lage/Größe der Modellierung kann mit den Tasten oder der Maus angepasst werden. Mit der Starttaste wird die Simultion gestartet und erlaubt einen Einblick in die Fahrwege des Fräsers - der besondere Augenmerk muss dabei auf der Eintauchtiefe des Fräsers liegen. Die Simulationsgeschwindigkeit kann über die Doppeldreick-Tasten angepasst werden.
 
