@@ -52,6 +52,8 @@ ein weiterer Doppelklick bringt dich zur Seitenansicht
 
 Dies Ansicht bitte genau bewerten, da sie die tatsächliche Frästiefe zeigt. **Diese darf auf keinen Fall die Höhe von Werkstück plus Opferplatte überschreiten!**
 
+
+
 <img src="images/Screenshot 2026-01-06 182922.png" width="700">
 
 Die Lage/Größe der Modellierung kann mit den Tasten oder der Maus angepasst werden. Mit der Starttaste wird die Simultion gestartet und erlaubt einen Einblick in die Fahrwege des Fräsers - der besondere Augenmerk muss dabei auf der Eintauchtiefe des Fräsers liegen. Die Simulationsgeschwindigkeit kann über die Doppeldreick-Tasten angepasst werden.
