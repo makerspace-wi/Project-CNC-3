@@ -58,7 +58,7 @@ Dies Ansicht bitte genau bewerten, da sie die tatsächliche Frästiefe zeigt. **
 
 Die Lage/Größe der Modellierung kann mit den Tasten oder der Maus angepasst werden. Mit der Starttaste wird die Simultion gestartet und erlaubt einen Einblick in die Fahrwege des Fräsers - der besondere Augenmerk muss dabei auf der Eintauchtiefe des Fräsers liegen. Die Simulationsgeschwindigkeit kann über die Doppeldreick-Tasten angepasst werden.
 
-Ziel sollte es sein, das komplette Projekt mit einem Fräser abzuarbeiten, da die CNC-3 keinen Werkzeugwechsler hat. 
+Ziel sollte es sein, das komplette Projekt mit einem Fräser abzuarbeiten, da die CNC's' keinen Werkzeugwechsler haben. 
 Bei Projekten mit unterschiedlichen Fräsern wird zum Werkzeugwechsel die Maschine angehalten und muss nach Fräserwechsel und Z-Achsennullung wieder gestartet werden.  
 
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/#hilfestellungen-zum-fr%C3%A4sjob)  ---  [Weiter](startcontroller.md)
