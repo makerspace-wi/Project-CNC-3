@@ -50,7 +50,7 @@ ein weiterer Doppelklick bringt dich zur Seitenansicht
 
 <img src="images/Screenshot 2026-01-06 182737.png" width="700">
 
-Dies Ansicht bitte genau bewerten, da sie die tatsächliche Frästiefe zeigt. *Diese darf auf keinen Fall die Höhe von Werkstück plus Opferplatte überschreiten!*
+Dies Ansicht bitte genau bewerten, da sie die tatsächliche Frästiefe zeigt. **Diese darf auf keinen Fall die Höhe von Werkstück plus Opferplatte überschreiten!**
 
 
 
