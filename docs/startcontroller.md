@@ -4,5 +4,8 @@ Hinweis: Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt
 
 <img src="images/Icons Kopie 1.png" width="300">  <img src="images/screenshot_05.PNG" width="600">
 
+Sicherhinweis und Tipp's
+
+[Funktionen Fernsteuerung](fernsteuerung.md)
 
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/#hilfestellungen-zum-fr%C3%A4sjob)
