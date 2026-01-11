@@ -14,10 +14,10 @@ Leuchtender Taster (blau) in der Mitte: Abnullen -> kurz drücken nullt die ausg
 
 ## Programmablauf steuern
 
-- Ein Druck auf den mit "S" beschrifteten Knopf startet oder Stopt die Spindel manuell
-- Ein Druck auf den mit "F" beschrifteten Knopf startet das geladene CNC Programm
-- Durch drehen am "F" Knopf kann die Vorschubgeschwindigkeit von 0 bis 100% angepasst werden
-- Durch drehen am "S" Knopf kann die Spindeldrehzahl von 0 bis 200% variiert werden
+- Ein Druck auf den mit "SPEED" beschrifteten Knopf startet oder Stopt die Spindel manuell
+- Ein Druck auf den mit "FEED" beschrifteten Knopf startet das geladene CNC Programm
+- Durch drehen am "FEED" Knopf kann die Vorschubgeschwindigkeit von 0 bis 100% angepasst werden
+- Durch drehen am "SPEED" Knopf kann die Spindeldrehzahl von 0 bis 200% variiert werden
 - Drücken bei laufendem Programm einen der beiden Knöpfe pausiert das Programm
 
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/#hilfestellungen-zum-fr%C3%A4sjob)  ---  [Weiter]()
