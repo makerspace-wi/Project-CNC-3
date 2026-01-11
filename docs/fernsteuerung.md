@@ -20,4 +20,4 @@ Leuchtender Taster (blau) in der Mitte: Abnullen -> kurz drücken nullt die ausg
 - Durch drehen am "SPEED" Knopf kann die Spindeldrehzahl von 0 bis 200% variiert werden
 - Drücken bei laufendem Programm einen der beiden Knöpfe pausiert das Programm
 
-[Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/#hilfestellungen-zum-fr%C3%A4sjob)  ---  [Weiter]()
+[Zurück](startcontroller.md)  ---  [Weiter]()
