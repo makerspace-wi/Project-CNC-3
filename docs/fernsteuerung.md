@@ -1,6 +1,6 @@
 # Funktionen Handrad Fernsteuerung
 
-<img src="images/ESTLCAM Handrad.png" width="400">
+<img src="images/ESTLCAM Handrad.png" width="300">
 
 Der Joystick der Fernsteuerung hat folgende Funktionen:
 
