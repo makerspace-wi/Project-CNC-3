@@ -8,4 +8,4 @@ Die Macros sind auf dem Bildschirm unten rechts angeordnet.
 1. **Kompressor einschalten** - aktiviert die Drucklufterzeugung
 1. **Staubsauger einschalten**
 
-[Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/#hilfestellungen-zum-fr%C3%A4sjob)
+[Zurück zum Start](startcontroller.md)
