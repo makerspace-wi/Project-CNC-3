@@ -51,7 +51,7 @@ ein weiterer Doppelklick bringt dich zur Seitenansicht
 
 ![Frässimulation Seitenansicht](images/Screenshot%202026-01-06%20182710.png)
 
-Dies Ansicht bitte genau bewerten, da sie die tatsächliche Frästiefe zeigt. **Diese darf auf keinen Fall die Höhe von Werkstück plus Opferplatte überschreiten** da die Nullung auf dem Werstück erfolgt! ABC
+Dies Ansicht bitte genau bewerten, da sie die tatsächliche Frästiefe zeigt. **Diese darf auf keinen Fall die Höhe von Werkstück plus Opferplatte überschreiten** da die Nullung auf dem Werstück erfolgt!
 
 ![Frässimulation Details](images/Screenshot%202026-01-06%20182922.png)
 
