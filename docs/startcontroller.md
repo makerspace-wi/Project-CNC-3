@@ -10,6 +10,7 @@ Der CNC-Controller kann durch Doppelklick auf **Estlcam V12 CNC** von der Oberfl
 
 Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofort alle Bewegungen gesperrt und am unteren Rand des Bildschirms wird auch darauf hingewiesen (in roter Schrift & blinkend). In diesem Fall die 'F11' Taste gedrückt halten und die betroffene Achse manuell aus dem Endstopp fahren - danach ist die Welt wieder in Ordnung.
 
+
 Sicherhinweis und Tipp's
 
 [Funktionen Fernsteuerung](fernsteuerung.md)
