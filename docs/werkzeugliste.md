@@ -16,4 +16,4 @@ Die Werkzeugliste kann Bilder der Fräser abspeichern und später anzeigen. Die 
 
 Interessant ist es auch, sich mit dem Export als .csv Datei zu beschäftigen. Diese kann dann bequem in einem Tabellenprogramm bearbeitet werden.
  
-[Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/startcam.html#voraussetzungen-und-annahmen)
+[Zurück](startcam.md)
