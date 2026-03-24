@@ -4,13 +4,11 @@
 
 Der CNC-Controller wird durch Doppelklick von **Estlcam V12 CNC** auf der Oberfläche gestartet, damit werden alle Achsentreiber aktiviert, d.h. der Fräsmotor kann ab jetzt mittels Fernsteuerung, Maus oder Direkteingabe an eine Position fahren.
 
-Hinweis: Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt, wenn man den Mauszeiger darüber positioniert.
+**Hinweis:** Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt, wenn man den Mauszeiger darüber positioniert.
 
 ## HILFE! - Ich habe eine Achse in den Endstopp gefahren 😱
 
 Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofort alle Bewegungen gesperrt und am unteren Rand des Bildschirms wird auch darauf hingewiesen (in roter Schrift & blinkend). In diesem Fall die 'F11' Taste gedrückt halten und die betroffene Achse **manuell aus dem Endstopp** fahren (bei gedrückter F11-Taste darauf achten, dass in die richtige Richtung gefahren wird, also weg vom Endstopp).
-
-Sicherhinweis und Tipp's
 
 [Funktionen Fernsteuerung](fernsteuerung.md)
 
