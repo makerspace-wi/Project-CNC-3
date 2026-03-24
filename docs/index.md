@@ -56,14 +56,9 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 
 * [Startsituation - CAM Projektfile generieren](startcam.md)
 * [CNC Controller starten](startcontroller.md)
-* [Fräser montieren]()  
-* [Werkstück auf Arbeitsfläche einspannen]()
-* [Projekt-File mit Estlcam CNC-Steuerung öffnen]()
-* [Nullpunkt anfahren und Achsen 'nullen']()
-* [Z-Achse nullen]()
-* [Absauge einschalten]()
-* [Fräsvorgang starten]()
-
+* [Fräser montieren](fraeser.md)  
+* [Werkstück auf Arbeitsfläche einspannen](werkstueck.md)
+* [Nullpunkte definieren](nullpunkt.md)
 
 ## Nachbereitung  
 
