@@ -2,7 +2,7 @@
 
 Bildschirm unten links
 
-<img src="images/MMS-Leiste.png" width="800">  
+<img src="images/MMS-Leiste.png" width="400">  
 
 <br>
 
