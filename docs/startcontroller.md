@@ -12,6 +12,8 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
 
 [Funktionen Fernsteuerung](fernsteuerung.md)
 
+[Steuerung per Maus & Tastatur](http://www.youtube.com/watch?v=syXvNqufWKvA)
+
 [Macros](macros.md)
 
 [Minimalmmengenschmierung (MMS)](mms.md)
