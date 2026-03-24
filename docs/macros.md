@@ -2,7 +2,7 @@
 
 Die Macros sind auf dem Bildschirm unten/rechts angeordnet.
 
-![CNC Controller Bildschirm](images/makroleiste.PNG)
+![Makroleiste](images/makroleiste.PNG)
 
 1. **VORNE** - fährt die Z-Achse hoch, den Fräser in die Parkposition vorne/inks und <span style="color: red;"> setzt X- , Y- und Z-Achsen auf '0'</span>
 1. **MITTE** - fährt die Z-Achse hoch und den Fräsmotor in die Mitte der Arbeitsfläche
