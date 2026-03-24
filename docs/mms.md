@@ -6,9 +6,9 @@ Bildschirm unten links
 
 <br>
 
-1. Erste (linke) Taste - Aktivieren der Minimalmengenschmierung
-1. Zweite Taste - Schmiermittel (ohne Druckluft) zum entlüften
-1. Dritte Taste - nur Druckluft
-1. Vierte Taste - MMS-Pulsbetrieb
+1. (linke) Taste - Aktivieren der Minimalmengenschmierung
+1. Taste - Schmiermittel (ohne Druckluft) zum entlüften
+1. Taste - nur Druckluft
+1. Taste - MMS-Pulsbetrieb
 
 [Zurück](startcontroller.md)
