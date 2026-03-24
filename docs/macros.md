@@ -10,4 +10,4 @@ Die Macros sind auf dem Bildschirm unten/rechts angeordnet.
 1. **Kompressor einschalten** - aktiviert die Drucklufterzeugung
 1. **Staubsauger einschalten**
 
-[Zurück zum Start](startcontroller.md)
+[Zurück](startcontroller.md)
