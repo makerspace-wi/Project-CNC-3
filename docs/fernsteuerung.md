@@ -14,10 +14,10 @@ Leuchtender Taster (blau) in der Mitte: Abnullen -> kurz drücken nullt die ausg
 
 ## Programmablauf steuern
 
-- Ein Druck auf den mit "SPEED" beschrifteten Knopf startet oder stoppt die Spindel manuell
-- Ein Druck auf den mit "FEED" beschrifteten Knopf startet das geladene CNC Programm
+- Ein Druck auf den mit "SPEED" beschrifteten Knopf **startet oder stoppt die Spindel** manuell
+- Ein Druck auf den mit "FEED" beschrifteten Knopf **startet das geladene CNC Programm**
 - Durch drehen am "FEED" Knopf kann die Vorschubgeschwindigkeit von 0 bis 100% angepasst werden
 - Durch drehen am "SPEED" Knopf kann die Spindeldrehzahl von 0 bis 200% variiert werden
-- Drücken bei laufendem Programm einen der beiden Knöpfe pausiert das Programm
+- Drücken bei laufendem Programm einen der beiden Knöpfe **pausiert das Programm**
 
 [Zurück](startcontroller.md)  ---  [Weiter]()
