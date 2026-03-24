@@ -1,10 +1,10 @@
 # CNC-Controller starten
 
-Hinweis: Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt, wenn man den Mauszeiger darüber positioniert.
-
 ![ESTLCAM Icons](images/Icons%20Kopie%201.png) ![CNC Controller Bildschirm](images/screenshot_05.PNG)
 
 Der CNC-Controller wird durch Doppelklick von **Estlcam V12 CNC** auf der Oberfläche gestartet, damit werden alle Achsentreiber aktiviert, d.h. der Fräsmotor kann ab jetzt mittels Fernsteuerung, Maus oder Direkteingabe an eine Position fahren.
+
+Hinweis: Jedes Feld, jede Funktion wird auf dem Bildschirm ausführlich erklärt, wenn man den Mauszeiger darüber positioniert.
 
 ## HILFE! - Ich habe eine Achse in den Endstopp gefahren 😱
 
