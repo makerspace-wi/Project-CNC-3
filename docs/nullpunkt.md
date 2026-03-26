@@ -24,7 +24,8 @@ Im folgenden wird zunächst die manülle Vorgehensweise erklärt.
 	Fräsermittelpunkt auf die gewünschte Ecke oder Markierung positionieren.  
 	Zum Schluss nur noch mit kleinen Schritten (Feinverstellung) korrigieren.
 3. **X/Y nullen**  
-	Im CNC-Controller die aktuelle Position als X0 und Y0 setzen.
+	Im CNC-Controller die aktuelle Position als X0 und Y0 setzen.  
+ 	z.B. leuchtender Taster (blau) in der Mitte: Abnullen -> kurz drücken nullt die ausgewählte Achse (lang drücken nullt alle ab!) oder
 4. **Z-Höhe anfahren**  
 	Fräser vorsichtig in Z nach unten fahren, bis der Bezugspunkt fast erreicht ist.
 5. **Z exakt setzen**  
