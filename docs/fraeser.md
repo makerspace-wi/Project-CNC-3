@@ -29,8 +29,6 @@ Unsachgemässe Montage führt schnell zu schlechtem Schnittbild, Werkzeugbruch o
 	Innenkonus, Spannzange und Fräserschaft sauber und trocken abwischen. Keine Späne, kein Oel, kein Schmutz.
 5. **Fräser einsetzen**  
 	Fräser in die Spannzange einschieben.  
-	Nicht auf Anschlag ganz unten klemmen: ca. 1-2 mm Luft lassen.
-6. **Einspanntiefe kontrollieren**  
 	Schaft ausreichend tief spannen (Faustregel: mindestens 2/3 der Spannzangenlänge, besser tiefer).  
 	<span style="color: red;">Schneiden dürfen nicht in der Spannzange sitzen!</span>
 7. **Spannmutter festziehen**  
