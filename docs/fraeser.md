@@ -51,6 +51,6 @@ Unsachgemässe Montage führt schnell zu schlechtem Schnittbild, Werkzeugbruch o
 * Werkstück fest eingespannt
 * MMS/Kühlschmierung eingestellt (falls benoetigt)
 
-Wenn Unsicherheiten bestehen, vor dem Start immer einen Einweiser kontaktieren.
+**Wenn Unsicherheiten bestehen, vor dem Start immer einen Einweiser kontaktieren.**
 
 [Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/)
