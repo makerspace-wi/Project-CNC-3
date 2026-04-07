@@ -3,16 +3,6 @@
 Die korrekte Montage ist entscheidend für Rundlauf, Werkzeugstandzeit und Sicherheit.
 Unsachgemässe Montage führt schnell zu schlechtem Schnittbild, Werkzeugbruch oder Beschädigung von Werkstück und Maschine.
 
-## 30-Sekunden-Checkliste (Einweiser)
-
-* Spindel steht, kein laufender Job, Achsen in sicherem Zustand
-* Passende Spannzange zum Schaftdurchmesser ausgewählt
-* Spannzange, Konus und Schaft sauber und trocken
-* Fräser korrekt eingesetzt (nicht auf Anschlag, ca. 1-2 mm Luft)
-* Einspanntiefe ausreichend, Schneiden nicht in der Spannzange
-* Spannmutter gleichmässig festgezogen
-* Sitz gerade, Werkzeug per Hand nicht herausziehbar
-
 ## Benoetigtes Material
 
 * Passende Spannzange zur Schaftgroesse des Fräsers (z. B. 6 mm, 8 mm)
