@@ -20,4 +20,4 @@ Leuchtender Taster (blau) in der Mitte: Abnullen -> kurz drücken nullt die ausg
 - Durch drehen am "SPEED" Knopf kann die Spindeldrehzahl von 0 bis 200% variiert werden
 - Drücken bei laufendem Programm einen der beiden Knöpfe **pausiert das Programm**
 
-[Zurück](startcontroller.md)  ---  [Weiter]()
+[Zurück](startcontroller.md)
