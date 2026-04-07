@@ -32,7 +32,7 @@ Unsachgemässe Montage führt schnell zu schlechtem Schnittbild, Werkzeugbruch o
 	Nicht auf Anschlag ganz unten klemmen: ca. 1-2 mm Luft lassen.
 6. **Einspanntiefe kontrollieren**  
 	Schaft ausreichend tief spannen (Faustregel: mindestens 2/3 der Spannzangenlänge, besser tiefer).  
-	Schneiden dürfen nicht in der Spannzange sitzen.
+	<span style="color: red;">Schneiden dürfen nicht in der Spannzange sitzen!</span>
 7. **Spannmutter festziehen**  
 	Mit beiden Schlüsseln gleichmässig und kräftig anziehen. Nicht mit Verlängerung überdrehen.
 8. **Sitz und Rundlauf prüfen**  
