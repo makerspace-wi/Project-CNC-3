@@ -1,42 +1,42 @@
-# CNC-Fraese sicher herunterfahren
+# CNC-Fräse sicher herunterfahren
 
-Der Shutdown-Prozess muss immer in der gleichen Reihenfolge erfolgen, damit keine Achse unerwartet faehrt und die Maschine sauber fuer den naechsten Nutzer uebergeben wird.
+Der Shutdown-Prozess muss immer in der gleichen Reihenfolge erfolgen, damit keine Achse unerwartet fährt und die Maschine sauber für den nächsten Nutzer übergeben wird.
 
-## Reihenfolge: Shutdown nach dem Fraesen
+## Reihenfolge: Shutdown nach dem Fräsen
 
-1. **Fraesjob beenden**  
+1. **Fräsjob beenden**  
 	Warten, bis alle Achsen stehen und die Spindel komplett aus ist.
-2. **Z-Achse in sichere Hoehe fahren**  
-	Werkzeug vom Werkstueck wegfahren, damit beim weiteren Handling keine Kollision entsteht.
+2. **Z-Achse in sichere Höhe fahren**  
+	Werkzeug vom Werkstück wegfahren, damit beim weiteren Handling keine Kollision entsteht.
 3. **X/Y in Parkposition fahren**  
-	Arbeitsbereich so anfahren, dass Werkstueck und Spannmittel gut zugaenglich sind.
-4. **MMS/Kuehlung ausschalten**  
+	Arbeitsbereich so anfahren, dass Werkstück und Spannmittel gut zugänglich sind.
+4. **MMS/Kühlung ausschalten**  
 	Falls genutzt: Zufuhr stoppen, Restdruck abbauen, Tropfenbildung vermeiden.
 5. **CNC-Controller stoppen**  
 	In Estlcam CNC den Betrieb sauber beenden, bevor irgendetwas an Hardware ausgeschaltet wird.
 6. **Spindel/Frequenzumrichter ausschalten (falls separat geschaltet)**  
 	Nur nach sicherem Stillstand.
-7. **Werkstueck entnehmen und Spannmittel loesen**  
+7. **Werkstück entnehmen und Spannmittel lösen**  
 	Vorsichtig ausspannen, scharfe Kanten beachten.
 8. **Maschine reinigen**  
-	Spaene an Tisch, Fuehrungen und im Arbeitsraum entfernen; Werkzeugaufnahme sauber halten.
-9. **Sichtpruefung auf Beschaedigungen**  
-	Fraeser, Spannzange, Kabel und Not-Aus Bereich kurz kontrollieren.
+	Späne an Tisch, Führungen und im Arbeitsraum entfernen; Werkzeugaufnahme sauber halten.
+9. **Sichtprüfung auf Beschädigungen**  
+	Fräser, Spannzange, Kabel und Not-Aus Bereich kurz kontrollieren.
 10. **PC/Software sauber schliessen**  
 	Dateien sichern, Projekte speichern, Programme geordnet beenden.
 11. **Hauptschalter/Versorgung ausschalten (wenn vorgesehen)**  
 	Erst ganz am Ende die Gesamtversorgung trennen.
 
-## Sonderfall: Werkzeugwechsel waehrend eines Jobs
+## Sonderfall: Werkzeugwechsel während eines Jobs
 
 * Maschine anhalten und Spindelstillstand abwarten.
-* Fraeser wechseln wie in der Fraeser-Anleitung beschrieben.
+* Fräser wechseln wie in der Fräser-Anleitung beschrieben.
 * **Z-Nullpunkt zwingend neu setzen**, danach erst Job fortsetzen.
 
-## Uebergabe-Check
+## Übergabe-Check
 
-* Arbeitsflaeche sauber
-* Werkzeuge und Schluessel aufgeraeumt
+* Arbeitsfläche sauber
+* Werkzeuge und Schlüssel aufgeräumt
 * Keine Warnmeldung aktiv
 * Maschine in sicherem Endzustand
 
