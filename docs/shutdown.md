@@ -7,7 +7,7 @@ Der Shutdown-Prozess muss immer in der gleichen Reihenfolge erfolgen, damit kein
 1. **Fräsjob beenden**  
 	Warten, bis alle Achsen stehen und die Spindel komplett aus ist.
 1. **MMS/Kühlung ausschalten**  
- Falls genutzt: Zufuhr stoppen, Restdruck abbauen, Tropfenbildung vermeiden.
+ Links unten - Falls genutzt: [MMS stoppen](mms.md)
 1. **Makro xyz aufrufen (2. Button von links)**  
     Die Z-Achse wird in sichere Höhe und Fräser weg vom Werkstück bewegt, damit Werkstück und Spannmittel gut zugänglich sind.
 
