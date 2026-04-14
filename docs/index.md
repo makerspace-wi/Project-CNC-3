@@ -59,6 +59,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 * [Fräser montieren](fraeser.md)  
 * [Werkstück auf Arbeitsfläche einspannen](werkstueck.md)
 * [Nullpunkte definieren](nullpunkt.md)
+* [Fräsjob starten](startjob.md)
 
 ## Nachbereitung  
 
