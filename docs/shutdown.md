@@ -23,6 +23,8 @@ Der Shutdown-Prozess muss immer in der gleichen Reihenfolge erfolgen, damit kein
 	Fräser, Spannzange, Kabel und Not-Aus Bereich kurz kontrollieren.
 1. **PC/Software sauber schliessen**  
 	Dateien sichern, Projekte speichern, Programme geordnet beenden.
+1. **Ausloggen**  
+    abc    
 1. **Hauptschalter/Versorgung ausschalten (wenn vorgesehen)**  
 	Erst ganz am Ende die Gesamtversorgung trennen.
 
