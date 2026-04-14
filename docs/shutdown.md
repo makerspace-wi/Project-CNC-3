@@ -16,7 +16,7 @@ Der Shutdown-Prozess muss immer in der gleichen Reihenfolge erfolgen, damit kein
 	Späne an Tisch, Führungen und im Arbeitsraum entfernen; Werkzeugaufnahme sauber halten.
 1. **Sichtprüfung auf Beschädigungen**  
 	Fräser, Spannzange, Kabel und Not-Aus Bereich kurz kontrollieren.
-1. **PC/Software sauber schliessen**  
+1. **ESTLCAM sauber schliessen**  
 	Dateien sichern, Projekte speichern, Programme geordnet beenden.
 1. **Ausloggen**  
     abc    
