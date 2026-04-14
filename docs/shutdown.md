@@ -10,7 +10,7 @@ Der Shutdown-Prozess muss immer in der gleichen Reihenfolge erfolgen, damit kein
  Links unten - Falls genutzt: [MMS stoppen](mms.md)
 1. **Makro [*Mitte*](macros.md) aufrufen (2. Button von links)**  
     Die Z-Achse wird in sichere Höhe und Fräser weg vom Werkstück bewegt, damit Werkstück und Spannmittel gut zugänglich sind.
-1. **Werkstück entnehmen und Spannmittel lösen**  
+1. **Spannmittel lösen und Werkstück entnehmen**  
 	Vorsichtig ausspannen, scharfe Kanten beachten.
 1. **Maschine reinigen**  
 	Späne an Tisch, Führungen und im Arbeitsraum entfernen; Werkzeugaufnahme sauber halten.
