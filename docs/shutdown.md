@@ -16,7 +16,9 @@ Der Shutdown-Prozess muss immer in der gleichen Reihenfolge erfolgen, damit kein
 	Späne an Tisch, Führungen und im Arbeitsraum entfernen; Werkzeugaufnahme sauber halten.
 1. **Sichtprüfung auf Beschädigungen**  
 	Fräser, Spannzange, Kabel und Not-Aus Bereich kurz kontrollieren.
-1. **ESTLCAM sauber schliessen**  
+1. **In ESTLCAM den Home Button betätigen**
+	Es wird dann die Referenzfahrt ausgeführt und die Fräse wird in die hintere, linke Ecke positioniert.	
+1. **ESTLCAM sauber schliessen und PC runter fahren**  
 	Dateien sichern, Projekte speichern, Programme geordnet beenden.
 1. **Ausloggen**  
     abc    
