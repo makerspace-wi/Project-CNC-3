@@ -20,9 +20,9 @@ Der Shutdown-Prozess muss immer in der gleichen Reihenfolge erfolgen, damit kein
 	Es wird dann die Referenzfahrt ausgeführt und die Fräse wird in die hintere, linke Ecke positioniert.	
 1. **ESTLCAM sauber schliessen und PC runter fahren**  
 	Dateien sichern, Projekte speichern, Programme geordnet beenden.
-1. **Ausloggen**  
-    abc    
-1. **Hauptschalter/Versorgung ausschalten (wenn vorgesehen)**  
+1. **Ausloggen am Lesegerät**  
+    Die grüne Taste muss unbedingt vor dem Ausschalten des Hauptschalters gedrückt werden.   
+1. **Hauptschalter ausschalten**  
 	Erst ganz am Ende die Gesamtversorgung trennen.
 
 ## Sonderfall: Werkzeugwechsel während eines Jobs
