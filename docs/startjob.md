@@ -13,5 +13,5 @@
 1. **Das Programm kann jederzeit angehalten werden und zwar durch**  
     - nochmaliges Drücken der Starttaste  
     - Bestätigen des großen STOP-Buttons (färbt sich rot mit Maus)  
-    <img src="images/StopFläche.png" width="100" style="vertical-align: bottom;">  
+    <img src="images/StopFläche.png" width="100" style="vertical-align: top">  
     - Drücken der Escape-(Esc)-Taste auf der Tastatur  
