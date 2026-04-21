@@ -9,7 +9,6 @@
 1. **Der Fräsjob wird nach dem Betätigen des Dreiecks gestartet.**  
 <img src="images/jobstarten.png" width="300" style="vertical-align: top;">  
 <br>
-
 1. **Das Programm kann jederzeit angehalten werden und zwar durch**  
     - nochmaliges Drücken der Starttaste  
     - Bestätigen des großen STOP-Buttons (färbt sich rot mit Maus)  
