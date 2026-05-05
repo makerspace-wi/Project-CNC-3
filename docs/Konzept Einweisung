@@ -1,0 +1,145 @@
+1. Didaktisches Gesamtkonzept der Einweisung
+Phase 1: Grundlagen & Sicherheit (ca. 30–45 min)
+
+Ziel: Risikobewusstsein + Systemverständnis
+
+Gefahren: Späne, Werkzeugbruch, Einzug, Lärm
+PSA: Schutzbrille, keine Handschuhe an rotierenden Teilen
+Not-Aus-Funktion demonstrieren
+Maschinenaufbau erklären:
+Achsen (X/Y/Z)
+Referenzfahrt / Homing
+Werkstücknullpunkt (G54-Prinzip verständlich erklären)
+Unterschied:
+Vorschub vs. Drehzahl
+Zustellung vs. Schnitttiefe
+
+👉 Wichtig: Hier entscheidet sich, ob jemand später sicher arbeitet.
+
+Phase 2: CAM mit Estlcam (ca. 45–60 min)
+
+Ziel: Verständnis der Werkzeugwege
+
+Import einer DXF/Zeichnung
+Werkzeugdefinition:
+Fräserdurchmesser
+Schnittdaten für Aluminium (z. B. 1–2 mm Zustellung)
+Bearbeitungsarten:
+Kontur außen/innen
+Taschen (Pockets)
+Bohren
+Simulation der Fräsbahnen
+
+👉 Fokus: „Was macht die Maschine gleich wirklich?“
+
+Phase 3: Maschinenbedienung (ca. 30–45 min)
+
+Ziel: Selbstständige Bedienung
+
+Werkstück spannen (Planlage!)
+Werkzeug einmessen (Z-Null setzen)
+Nullpunkt setzen (X/Y)
+Trockenlauf („Air Cut“)
+Start des Programms
+Phase 4: Praxisprojekt (ca. 60–90 min)
+
+Ziel: Anwendung + Erfolgserlebnis
+
+Hier kommt dein Übungsmodell ins Spiel.
+
+2. Vorschlag für ein Übungsmodell
+„Multifunktions-Testplatte“ (sehr bewährt)
+
+Material:
+
+Aluminium EN AW-6082 oder 7075
+Größe: ca. 100 × 60 × 8 mm (Block)
+oder 3–5 mm Blech
+Enthaltene Features (didaktisch sinnvoll)
+
+Das Werkstück sollte mehrere Bearbeitungsarten kombinieren:
+
+1. Außenkontur
+Rechteck mit abgerundeten Ecken
+→ vermittelt: Konturfräsen + Werkzeugradiuskorrektur
+2. Tasche (Pocket)
+Rechteckige Tasche (z. B. 40 × 20 mm, 2 mm tief)
+→ vermittelt: Flächenbearbeitung
+3. Bohrungen
+3–4 Durchgangslöcher (z. B. Ø5 mm)
+→ vermittelt: Bohren vs. Fräsen
+4. Passung / Innenkontur
+Kreis (z. B. Ø20 mm)
+→ vermittelt: Maßhaltigkeit
+5. Gravur / Schriftzug
+Name oder „CNC TEST“
+→ vermittelt: feine Zustellungen, Gravurstrategie
+6. Fase oder Senkung (optional)
+
+→ vermittelt: Werkzeugwechsel / 2. Werkzeug
+
+Beispiel-Geometrie (übersichtlich)
+Außenmaß: 100 × 60 mm
+Tasche: mittig
+Lochbild: symmetrisch
+Gravur oben
+
+👉 Wichtig: Keine zu komplexe Geometrie – Fokus ist Lernen, nicht Design.
+
+3. Lernziele des Übungsmodells
+
+Nach dem Projekt kann der Teilnehmer:
+
+DXF in Estlcam importieren
+Werkzeuge korrekt auswählen
+Vorschub/Zustellung grob abschätzen
+Nullpunkt setzen
+einfache Fräsprogramme sicher starten
+typische Fehler erkennen:
+falsche Zustellung
+falscher Nullpunkt
+falsche Fräsrichtung
+4. Typische Fehler (unbedingt einbauen!)
+
+Plane bewusst kleine „Aha-Momente“ ein:
+
+Simulation vs. Realität vergleichen
+einmal falschen Nullpunkt demonstrieren
+zu hohe Zustellung zeigen (kontrolliert!)
+5. Erweiterung für Fortgeschrittene
+
+Wenn Teilnehmer schneller sind:
+
+adaptive Zustellung
+mehrere Werkzeuge
+Gewindebohrung vorbereiten
+einfache 2.5D-Reliefs
+6. Optional: Standardisierung der Einweisung
+
+Erstelle eine Checkliste:
+
+Vor Start:
+
+Werkstück fest?
+Werkzeug korrekt gespannt?
+Nullpunkt gesetzt?
+Programm geprüft?
+
+Währenddessen:
+
+Geräusch beobachten
+Späne kontrollieren
+
+Nachher:
+
+Entgraten
+Maß prüfen
+Fazit
+
+Das Konzept funktioniert, wenn:
+
+Theorie → direkt Praxis
+Fehler erlaubt, aber kontrolliert
+ein greifbares Ergebnis entsteht
+
+Die „Testplatte“ ist ideal, weil sie fast alle grundlegenden CNC-Operationen in einem einzigen Werkstück vereint – genau das, was Einsteiger brauchen.
