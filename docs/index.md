@@ -73,7 +73,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 
 [Schnittwerteberechnungen](schnittwerte.pdf)
 
-[Spann Pratzen Set Teileliste](../blob/main/doc/Pratzen_Set.pdf)
+[Spann Pratzen Set Teileliste](Clamping_Set_58_de.pdf)
 
 ----
 [Forum - Doku CNC Frieda](https://www.rc-network.de/threads/fr%C3%A4se-frieda.560454/)
