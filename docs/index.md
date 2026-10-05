@@ -71,7 +71,7 @@ Die CNC3-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 
 [Fräserauswahl](https://github.com/makerspace-wi/Projekt-CNC2-Holzfraese/tree/main/images/fraeser_verwendung_schaftfraeser.png)<br>
 
-[Schnittwerteberechnungen](../blob/main/doc/schnittwerte.pdf)
+[Schnittwerteberechnungen](../doc/schnittwerte.pdf)
 
 [Spann Pratzen Set Teileliste](../blob/main/doc/Pratzen_Set.pdf)
 
