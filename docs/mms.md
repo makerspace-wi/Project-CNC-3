@@ -9,4 +9,5 @@ Bildschirm unten links
 1. Taste - nur Druckluft
 1. Taste - MMS-Pulsbetrieb
 
+Wenn keine Druckluft/Schmiermittel aus dem Messingrohr kommt, Druckentlastungsventil am Schmiermittelvorratsbehälter prüfen!
 [Zurück](startcontroller.md)
