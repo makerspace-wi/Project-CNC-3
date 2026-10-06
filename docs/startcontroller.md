@@ -9,6 +9,8 @@ Der CNC-Controller wird durch Doppelklick von **Estlcam V12 CNC** auf der Oberfl
 ## HILFE! - Ich habe eine Achse in den Endstopp gefahren 😱
 
 Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofort alle Bewegungen gesperrt und am unteren Rand des Bildschirms wird auch darauf hingewiesen (in roter Schrift & blinkend). In diesem Fall die 'F11' Taste gedrückt halten und die betroffene Achse **manuell aus dem Endstopp** fahren (bei gedrückter F11-Taste darauf achten, dass in die richtige Richtung gefahren wird, also weg vom Endstopp).
+  
+  Wenn man trotz aller Vorsicht den Fräser auf das Werkstück gerammt hat (z.B. beim Z-Antaten), hat man einen Schleppfehler auf Z und muss unbedingt Homing/Referenzfahrt durchführen.
 
 [Funktionen Fernsteuerung](fernsteuerung.md)
 
