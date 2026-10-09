@@ -15,7 +15,7 @@ X-Achse 620mm
 Y-Achse 995mm  
 Z-Hub 115mm  
   
-Steuerprogramm: <a href="https://www.estlcam.de/" target="_blank">estlam</a> von Christian Knüll (Homepage enthält auch weitere Hilfen)  
+Steuerprogramm: <a href="https://www.estlcam.de/" target="_blank">Estlcam</a> von Christian Knüll (Homepage enthält auch weitere Hilfen)  
 Controller: [Klemmenadapter XL](https://www.estlcam.de/tx.php) (auch von Christian Knüll)  
 Minimalmengenschmierung (MMS) von [END-CNC](https://www.end-cnc-shop.de/)
 
