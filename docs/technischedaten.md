@@ -16,7 +16,8 @@ Y-Achse 995mm
 Z-Hub 115mm  
   
 Steuerprogramm: <a href="https://www.estlcam.de/" target="_blank">Estlcam</a> von Christian Knüll (Homepage enthält auch weitere Hilfen)  
-Controller: [Klemmenadapter XL](https://www.estlcam.de/tx.php) (auch von Christian Knüll)  
-Minimalmengenschmierung (MMS) von [END-CNC](https://www.end-cnc-shop.de/)
+Controller: <a href="https://www.estlcam.de/tx.php/" target="_blank">Klemmenadapter XL</a> (auch von Christian Knüll)  
+Minimalmengenschmierung (MMS) von <a href="https://www.end-cnc-shop.de/" target="_blank">END-CNC</a>
 
-[Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/)
+[Zurück zum Start](https://makerspace-wi.github.io/Project-CNC-3/)  
+
